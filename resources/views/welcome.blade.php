@@ -43,7 +43,7 @@
                                 <i class="fa-regular fa-user"></i>
                             </a>
                         </div>
-                        <a href="#0" class="acc__cont">
+                        <a href="/login" class="acc__cont">
                             <span>
                                 My Account
                             </span>
@@ -263,12 +263,10 @@
 
         <!-- Banner area start here -->
         <section class="banner-two">
-            <div class="banner-two__shape-left d-none d-lg-block wow bounceInLeft" data-wow-duration="1s"
-                data-wow-delay=".5s">
+            <div class="banner-two__shape-left d-none d-lg-block wow bounceInLeft" data-wow-duration="1s" data-wow-delay=".5s">
                 <img src="assets/images/shape/vape1.png" alt="shape">
             </div>
-            <div class="banner-two__shape-right d-none d-lg-block wow bounceInRight" data-wow-duration="1s"
-                data-wow-delay=".1s">
+            <div class="banner-two__shape-right d-none d-lg-block wow bounceInRight" data-wow-duration="1s" data-wow-delay=".1s">
                 <img class="sway_Y__animation " src="assets/images/shape/vape2.png" alt="shape">
             </div>
             <div class="swiper banner-two__slider">
@@ -277,8 +275,7 @@
                         <div class="slide-bg" data-background="assets/images/fondo.gif"></div>
                         <div class="container">
                             <div class="banner-two__content">
-                                <h4 data-animation="fadeInUp" data-delay="1s"><img src="assets/images/icon/fire.svg"
-                                        alt="icon"> GET <span class="primary-color">25% OFF</span> NOW</h4>
+                                <h4 data-animation="fadeInUp" data-delay="1s"><img src="assets/images/icon/fire.svg" alt="icon"> GET <span class="primary-color">25% OFF</span> NOW</h4>
                                 <h1 data-animation="fadeInUp" data-delay="1.3s">Find everything <br>
                                     for <span class="primary-color">vaping</span></h1>
                                 <p class="mt-40" data-animation="fadeInUp" data-delay="1.5s">Sell globally in minutes
@@ -291,11 +288,9 @@
                                     <h3>$99.00</h3>
                                 </div>
                                 <div class="btn-wrp mt-65">
-                                    <a href="shop.html" class="btn-one" data-animation="fadeInUp"
-                                        data-delay="1.8s"><span>Shop
+                                    <a href="shop.html" class="btn-one" data-animation="fadeInUp" data-delay="1.8s"><span>Shop
                                             Now</span></a>
-                                    <a class="btn-one-light ml-20" href="shop-single.html" data-animation="fadeInUp"
-                                        data-delay="1.9s"><span>View Details</span></a>
+                                    <a class="btn-one-light ml-20" href="shop-single.html" data-animation="fadeInUp" data-delay="1.9s"><span>View Details</span></a>
                                 </div>
                             </div>
                         </div>
@@ -304,8 +299,7 @@
                         <div class="slide-bg" data-background="assets/images/fondo.gif"></div>
                         <div class="container">
                             <div class="banner-two__content">
-                                <h4 data-animation="fadeInUp" data-delay="1s"><img src="assets/images/icon/fire.svg"
-                                        alt="icon"> GET <span class="primary-color">25% OFF</span> NOW</h4>
+                                <h4 data-animation="fadeInUp" data-delay="1s"><img src="assets/images/icon/fire.svg" alt="icon"> GET <span class="primary-color">25% OFF</span> NOW</h4>
                                 <h1 data-animation="fadeInUp" data-delay="1.3s">Find everything <br>
                                     for <span class="primary-color">vaping</span></h1>
                                 <p class="mt-40" data-animation="fadeInUp" data-delay="1.5s">Sell globally in minutes
@@ -318,11 +312,9 @@
                                     <h3>$99.00</h3>
                                 </div>
                                 <div class="btn-wrp mt-65">
-                                    <a href="shop.html" class="btn-one" data-animation="fadeInUp"
-                                        data-delay="1.8s"><span>Shop
+                                    <a href="shop.html" class="btn-one" data-animation="fadeInUp" data-delay="1.8s"><span>Shop
                                             Now</span></a>
-                                    <a class="btn-one-light ml-20" href="shop-single.html" data-animation="fadeInUp"
-                                        data-delay="1.9s"><span>View
+                                    <a class="btn-one-light ml-20" href="shop-single.html" data-animation="fadeInUp" data-delay="1.9s"><span>View
                                             Details</span></a>
                                 </div>
                             </div>
@@ -332,8 +324,7 @@
                         <div class="slide-bg" data-background="assets/images/banner/fondo.gif"></div>
                         <div class="container">
                             <div class="banner-two__content">
-                                <h4 data-animation="fadeInUp" data-delay="1s"><img src="assets/images/icon/fire.svg"
-                                        alt="icon"> GET <span class="primary-color">25% OFF</span> NOW</h4>
+                                <h4 data-animation="fadeInUp" data-delay="1s"><img src="assets/images/icon/fire.svg" alt="icon"> GET <span class="primary-color">25% OFF</span> NOW</h4>
                                 <h1 data-animation="fadeInUp" data-delay="1.3s">Find everything <br>
                                     for <span class="primary-color">vaping</span></h1>
                                 <p class="mt-40" data-animation="fadeInUp" data-delay="1.5s">Sell globally in minutes
@@ -346,11 +337,9 @@
                                     <h3>$99.00</h3>
                                 </div>
                                 <div class="btn-wrp mt-65">
-                                    <a href="shop.html" class="btn-one" data-animation="fadeInUp"
-                                        data-delay="1.8s"><span>Shop
+                                    <a href="shop.html" class="btn-one" data-animation="fadeInUp" data-delay="1.8s"><span>Shop
                                             Now</span></a>
-                                    <a class="btn-one-light ml-20" href="shop-single.html" data-animation="fadeInUp"
-                                        data-delay="1.9s"><span>View
+                                    <a class="btn-one-light ml-20" href="shop-single.html" data-animation="fadeInUp" data-delay="1.9s"><span>View
                                             Details</span></a>
                                 </div>
                             </div>
@@ -360,8 +349,7 @@
             </div>
             <div class="banner-two__arry-btn">
                 <button class="arry-prev mb-15 banner-two__arry-prev"><i class="fa-light fa-chevron-left"></i></button>
-                <button class="arry-next active banner-two__arry-next"><i
-                        class="fa-light fa-chevron-right"></i></button>
+                <button class="arry-next active banner-two__arry-next"><i class="fa-light fa-chevron-right"></i></button>
             </div>
         </section>
         <!-- Banner area end here -->
@@ -467,8 +455,7 @@
                                     in every market. only a variety of vaping
                                     products</p>
                                 <a class="btn-two" href="shop-single.html"><span>Shop Now</span></a>
-                                <a class="off-btn" href="#0"><img class="mr-10" src="assets/images/icon/fire.svg"
-                                        alt="icon"> GET
+                                <a class="off-btn" href="#0"><img class="mr-10" src="assets/images/icon/fire.svg" alt="icon"> GET
                                     <span class="primary-color">25%
                                         OFF</span> NOW</a>
                             </div>
@@ -504,8 +491,7 @@
         <!-- Product area start here -->
         <section class="product-area pt-130 pb-130 mt-130">
             <div class="container">
-                <div
-                    class="product__wrp pb-30 mb-65 bor-bottom d-flex flex-wrap align-items-center justify-content-xl-between justify-content-center">
+                <div class="product__wrp pb-30 mb-65 bor-bottom d-flex flex-wrap align-items-center justify-content-xl-between justify-content-center">
                     <div class="section-header d-flex align-items-center wow fadeInUp" data-wow-delay=".1s">
                         <span class="title-icon mr-10"></span>
                         <h2>latest arrival products</h2>
@@ -535,10 +521,8 @@
                                 <div class="product__item bor">
                                     <a href="#0" class="wishlist"><i class="fa-regular fa-heart"></i></a>
                                     <a href="shop-single.html" class="product__image pt-20 d-block">
-                                        <img class="font-image" src="assets/images/product/product-image1.png"
-                                            alt="image">
-                                        <img class="back-image" src="assets/images/product/product-image3.png"
-                                            alt="image">
+                                        <img class="font-image" src="assets/images/product/product-image1.png" alt="image">
+                                        <img class="back-image" src="assets/images/product/product-image3.png" alt="image">
                                     </a>
                                     <div class="product__content">
                                         <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">Menthol
@@ -553,8 +537,7 @@
                                         </div>
 
                                     </div>
-                                    <a class="product__cart d-block bor-top" href="#0"><i
-                                            class="fa-regular fa-cart-shopping primary-color me-1"></i>
+                                    <a class="product__cart d-block bor-top" href="#0"><i class="fa-regular fa-cart-shopping primary-color me-1"></i>
                                         <span>Add to
                                             cart</span></a>
                                 </div>
@@ -563,10 +546,8 @@
                                 <div class="product__item bor">
                                     <a href="#0" class="wishlist"><i class="fa-regular fa-heart"></i></a>
                                     <a href="shop-single.html" class="product__image pt-20 d-block">
-                                        <img class="font-image" src="assets/images/product/product-image2.png"
-                                            alt="image">
-                                        <img class="back-image" src="assets/images/product/product-image4.png"
-                                            alt="image">
+                                        <img class="font-image" src="assets/images/product/product-image2.png" alt="image">
+                                        <img class="back-image" src="assets/images/product/product-image4.png" alt="image">
                                     </a>
                                     <div class="product__content">
                                         <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">Disposable
@@ -581,8 +562,7 @@
                                         </div>
 
                                     </div>
-                                    <a class="product__cart d-block bor-top" href="#0"><i
-                                            class="fa-regular fa-cart-shopping primary-color me-1"></i>
+                                    <a class="product__cart d-block bor-top" href="#0"><i class="fa-regular fa-cart-shopping primary-color me-1"></i>
                                         <span>Add to
                                             cart</span></a>
                                 </div>
@@ -591,10 +571,8 @@
                                 <div class="product__item bor">
                                     <a href="#0" class="wishlist"><i class="fa-regular fa-heart"></i></a>
                                     <a href="shop-single.html" class="product__image pt-20 d-block">
-                                        <img class="font-image" src="assets/images/product/product-image3.png"
-                                            alt="image">
-                                        <img class="back-image" src="assets/images/product/product-image5.png"
-                                            alt="image">
+                                        <img class="font-image" src="assets/images/product/product-image3.png" alt="image">
+                                        <img class="back-image" src="assets/images/product/product-image5.png" alt="image">
                                     </a>
                                     <div class="product__content">
                                         <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">POP
@@ -610,8 +588,7 @@
                                         </div>
 
                                     </div>
-                                    <a class="product__cart d-block bor-top" href="#0"><i
-                                            class="fa-regular fa-cart-shopping primary-color me-1"></i>
+                                    <a class="product__cart d-block bor-top" href="#0"><i class="fa-regular fa-cart-shopping primary-color me-1"></i>
                                         <span>Add to
                                             cart</span></a>
                                 </div>
@@ -620,10 +597,8 @@
                                 <div class="product__item bor">
                                     <a href="#0" class="wishlist"><i class="fa-regular fa-heart"></i></a>
                                     <a href="shop-single.html" class="product__image pt-20 d-block">
-                                        <img class="font-image" src="assets/images/product/product-image4.png"
-                                            alt="image">
-                                        <img class="back-image" src="assets/images/product/product-image6.png"
-                                            alt="image">
+                                        <img class="font-image" src="assets/images/product/product-image4.png" alt="image">
+                                        <img class="back-image" src="assets/images/product/product-image6.png" alt="image">
                                     </a>
                                     <div class="product__content">
                                         <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">Battery
@@ -639,8 +614,7 @@
                                         </div>
 
                                     </div>
-                                    <a class="product__cart d-block bor-top" href="#0"><i
-                                            class="fa-regular fa-cart-shopping primary-color me-1"></i>
+                                    <a class="product__cart d-block bor-top" href="#0"><i class="fa-regular fa-cart-shopping primary-color me-1"></i>
                                         <span>Add to
                                             cart</span></a>
                                 </div>
@@ -649,10 +623,8 @@
                                 <div class="product__item bor">
                                     <a href="#0" class="wishlist"><i class="fa-regular fa-heart"></i></a>
                                     <a href="shop-single.html" class="product__image pt-20 d-block">
-                                        <img class="font-image" src="assets/images/product/product-image5.png"
-                                            alt="image">
-                                        <img class="back-image" src="assets/images/product/product-image3.png"
-                                            alt="image">
+                                        <img class="font-image" src="assets/images/product/product-image5.png" alt="image">
+                                        <img class="back-image" src="assets/images/product/product-image3.png" alt="image">
                                     </a>
                                     <div class="product__content">
                                         <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">Pods
@@ -668,8 +640,7 @@
                                         </div>
 
                                     </div>
-                                    <a class="product__cart d-block bor-top" href="#0"><i
-                                            class="fa-regular fa-cart-shopping primary-color me-1"></i>
+                                    <a class="product__cart d-block bor-top" href="#0"><i class="fa-regular fa-cart-shopping primary-color me-1"></i>
                                         <span>Add to
                                             cart</span></a>
                                 </div>
@@ -678,10 +649,8 @@
                                 <div class="product__item bor">
                                     <a href="#0" class="wishlist"><i class="fa-regular fa-heart"></i></a>
                                     <a href="shop-single.html" class="product__image pt-20 d-block">
-                                        <img class="font-image" src="assets/images/product/product-image6.png"
-                                            alt="image">
-                                        <img class="back-image" src="assets/images/product/product-image4.png"
-                                            alt="image">
+                                        <img class="font-image" src="assets/images/product/product-image6.png" alt="image">
+                                        <img class="back-image" src="assets/images/product/product-image4.png" alt="image">
                                     </a>
                                     <div class="product__content">
                                         <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">GeekVape
@@ -696,8 +665,7 @@
                                         </div>
 
                                     </div>
-                                    <a class="product__cart d-block bor-top" href="#0"><i
-                                            class="fa-regular fa-cart-shopping primary-color me-1"></i>
+                                    <a class="product__cart d-block bor-top" href="#0"><i class="fa-regular fa-cart-shopping primary-color me-1"></i>
                                         <span>Add to
                                             cart</span></a>
                                 </div>
@@ -706,10 +674,8 @@
                                 <div class="product__item bor">
                                     <a href="#0" class="wishlist"><i class="fa-regular fa-heart"></i></a>
                                     <a href="shop-single.html" class="product__image pt-20 d-block">
-                                        <img class="font-image" src="assets/images/product/product-image7.png"
-                                            alt="image">
-                                        <img class="back-image" src="assets/images/product/product-image4.png"
-                                            alt="image">
+                                        <img class="font-image" src="assets/images/product/product-image7.png" alt="image">
+                                        <img class="back-image" src="assets/images/product/product-image4.png" alt="image">
                                     </a>
                                     <div class="product__content">
                                         <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">POP Extra
@@ -724,8 +690,7 @@
                                         </div>
 
                                     </div>
-                                    <a class="product__cart d-block bor-top" href="#0"><i
-                                            class="fa-regular fa-cart-shopping primary-color me-1"></i>
+                                    <a class="product__cart d-block bor-top" href="#0"><i class="fa-regular fa-cart-shopping primary-color me-1"></i>
                                         <span>Add to
                                             cart</span></a>
                                 </div>
@@ -734,10 +699,8 @@
                                 <div class="product__item bor">
                                     <a href="#0" class="wishlist"><i class="fa-regular fa-heart"></i></a>
                                     <a href="shop-single.html" class="product__image pt-20 d-block">
-                                        <img class="font-image" src="assets/images/product/product-image8.png"
-                                            alt="image">
-                                        <img class="back-image" src="assets/images/product/product-image4.png"
-                                            alt="image">
+                                        <img class="font-image" src="assets/images/product/product-image8.png" alt="image">
+                                        <img class="back-image" src="assets/images/product/product-image4.png" alt="image">
                                     </a>
                                     <div class="product__content">
                                         <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">100ml
@@ -753,8 +716,7 @@
                                         </div>
 
                                     </div>
-                                    <a class="product__cart d-block bor-top" href="#0"><i
-                                            class="fa-regular fa-cart-shopping primary-color me-1"></i>
+                                    <a class="product__cart d-block bor-top" href="#0"><i class="fa-regular fa-cart-shopping primary-color me-1"></i>
                                         <span>Add to
                                             cart</span></a>
                                 </div>
@@ -767,10 +729,8 @@
                                 <div class="product__item bor">
                                     <a href="#0" class="wishlist"><i class="fa-regular fa-heart"></i></a>
                                     <a href="shop-single.html" class="product__image pt-20 d-block">
-                                        <img class="font-image" src="assets/images/product/product-image4.png"
-                                            alt="image">
-                                        <img class="back-image" src="assets/images/product/product-image6.png"
-                                            alt="image">
+                                        <img class="font-image" src="assets/images/product/product-image4.png" alt="image">
+                                        <img class="back-image" src="assets/images/product/product-image6.png" alt="image">
                                     </a>
                                     <div class="product__content">
                                         <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">Battery
@@ -786,8 +746,7 @@
                                         </div>
 
                                     </div>
-                                    <a class="product__cart d-block bor-top" href="#0"><i
-                                            class="fa-regular fa-cart-shopping primary-color me-1"></i>
+                                    <a class="product__cart d-block bor-top" href="#0"><i class="fa-regular fa-cart-shopping primary-color me-1"></i>
                                         <span>Add to
                                             cart</span></a>
                                 </div>
@@ -796,10 +755,8 @@
                                 <div class="product__item bor">
                                     <a href="#0" class="wishlist"><i class="fa-regular fa-heart"></i></a>
                                     <a href="shop-single.html" class="product__image pt-20 d-block">
-                                        <img class="font-image" src="assets/images/product/product-image5.png"
-                                            alt="image">
-                                        <img class="back-image" src="assets/images/product/product-image3.png"
-                                            alt="image">
+                                        <img class="font-image" src="assets/images/product/product-image5.png" alt="image">
+                                        <img class="back-image" src="assets/images/product/product-image3.png" alt="image">
                                     </a>
                                     <div class="product__content">
                                         <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">Pods
@@ -815,8 +772,7 @@
                                         </div>
 
                                     </div>
-                                    <a class="product__cart d-block bor-top" href="#0"><i
-                                            class="fa-regular fa-cart-shopping primary-color me-1"></i>
+                                    <a class="product__cart d-block bor-top" href="#0"><i class="fa-regular fa-cart-shopping primary-color me-1"></i>
                                         <span>Add to
                                             cart</span></a>
                                 </div>
@@ -825,10 +781,8 @@
                                 <div class="product__item bor">
                                     <a href="#0" class="wishlist"><i class="fa-regular fa-heart"></i></a>
                                     <a href="shop-single.html" class="product__image pt-20 d-block">
-                                        <img class="font-image" src="assets/images/product/product-image6.png"
-                                            alt="image">
-                                        <img class="back-image" src="assets/images/product/product-image4.png"
-                                            alt="image">
+                                        <img class="font-image" src="assets/images/product/product-image6.png" alt="image">
+                                        <img class="back-image" src="assets/images/product/product-image4.png" alt="image">
                                     </a>
                                     <div class="product__content">
                                         <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">GeekVape
@@ -843,8 +797,7 @@
                                         </div>
 
                                     </div>
-                                    <a class="product__cart d-block bor-top" href="#0"><i
-                                            class="fa-regular fa-cart-shopping primary-color me-1"></i>
+                                    <a class="product__cart d-block bor-top" href="#0"><i class="fa-regular fa-cart-shopping primary-color me-1"></i>
                                         <span>Add to
                                             cart</span></a>
                                 </div>
@@ -853,10 +806,8 @@
                                 <div class="product__item bor">
                                     <a href="#0" class="wishlist"><i class="fa-regular fa-heart"></i></a>
                                     <a href="shop-single.html" class="product__image pt-20 d-block">
-                                        <img class="font-image" src="assets/images/product/product-image7.png"
-                                            alt="image">
-                                        <img class="back-image" src="assets/images/product/product-image4.png"
-                                            alt="image">
+                                        <img class="font-image" src="assets/images/product/product-image7.png" alt="image">
+                                        <img class="back-image" src="assets/images/product/product-image4.png" alt="image">
                                     </a>
                                     <div class="product__content">
                                         <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">POP Extra
@@ -871,8 +822,7 @@
                                         </div>
 
                                     </div>
-                                    <a class="product__cart d-block bor-top" href="#0"><i
-                                            class="fa-regular fa-cart-shopping primary-color me-1"></i>
+                                    <a class="product__cart d-block bor-top" href="#0"><i class="fa-regular fa-cart-shopping primary-color me-1"></i>
                                         <span>Add to
                                             cart</span></a>
                                 </div>
@@ -881,10 +831,8 @@
                                 <div class="product__item bor">
                                     <a href="#0" class="wishlist"><i class="fa-regular fa-heart"></i></a>
                                     <a href="shop-single.html" class="product__image pt-20 d-block">
-                                        <img class="font-image" src="assets/images/product/product-image8.png"
-                                            alt="image">
-                                        <img class="back-image" src="assets/images/product/product-image4.png"
-                                            alt="image">
+                                        <img class="font-image" src="assets/images/product/product-image8.png" alt="image">
+                                        <img class="back-image" src="assets/images/product/product-image4.png" alt="image">
                                     </a>
                                     <div class="product__content">
                                         <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">100ml
@@ -900,8 +848,7 @@
                                         </div>
 
                                     </div>
-                                    <a class="product__cart d-block bor-top" href="#0"><i
-                                            class="fa-regular fa-cart-shopping primary-color me-1"></i>
+                                    <a class="product__cart d-block bor-top" href="#0"><i class="fa-regular fa-cart-shopping primary-color me-1"></i>
                                         <span>Add to
                                             cart</span></a>
                                 </div>
@@ -914,10 +861,8 @@
                                 <div class="product__item bor">
                                     <a href="#0" class="wishlist"><i class="fa-regular fa-heart"></i></a>
                                     <a href="shop-single.html" class="product__image pt-20 d-block">
-                                        <img class="font-image" src="assets/images/product/product-image1.png"
-                                            alt="image">
-                                        <img class="back-image" src="assets/images/product/product-image3.png"
-                                            alt="image">
+                                        <img class="font-image" src="assets/images/product/product-image1.png" alt="image">
+                                        <img class="back-image" src="assets/images/product/product-image3.png" alt="image">
                                     </a>
                                     <div class="product__content">
                                         <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">Menthol
@@ -932,8 +877,7 @@
                                         </div>
 
                                     </div>
-                                    <a class="product__cart d-block bor-top" href="#0"><i
-                                            class="fa-regular fa-cart-shopping primary-color me-1"></i>
+                                    <a class="product__cart d-block bor-top" href="#0"><i class="fa-regular fa-cart-shopping primary-color me-1"></i>
                                         <span>Add to
                                             cart</span></a>
                                 </div>
@@ -942,10 +886,8 @@
                                 <div class="product__item bor">
                                     <a href="#0" class="wishlist"><i class="fa-regular fa-heart"></i></a>
                                     <a href="shop-single.html" class="product__image pt-20 d-block">
-                                        <img class="font-image" src="assets/images/product/product-image2.png"
-                                            alt="image">
-                                        <img class="back-image" src="assets/images/product/product-image4.png"
-                                            alt="image">
+                                        <img class="font-image" src="assets/images/product/product-image2.png" alt="image">
+                                        <img class="back-image" src="assets/images/product/product-image4.png" alt="image">
                                     </a>
                                     <div class="product__content">
                                         <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">Disposable
@@ -960,8 +902,7 @@
                                         </div>
 
                                     </div>
-                                    <a class="product__cart d-block bor-top" href="#0"><i
-                                            class="fa-regular fa-cart-shopping primary-color me-1"></i>
+                                    <a class="product__cart d-block bor-top" href="#0"><i class="fa-regular fa-cart-shopping primary-color me-1"></i>
                                         <span>Add to
                                             cart</span></a>
                                 </div>
@@ -970,10 +911,8 @@
                                 <div class="product__item bor">
                                     <a href="#0" class="wishlist"><i class="fa-regular fa-heart"></i></a>
                                     <a href="shop-single.html" class="product__image pt-20 d-block">
-                                        <img class="font-image" src="assets/images/product/product-image3.png"
-                                            alt="image">
-                                        <img class="back-image" src="assets/images/product/product-image5.png"
-                                            alt="image">
+                                        <img class="font-image" src="assets/images/product/product-image3.png" alt="image">
+                                        <img class="back-image" src="assets/images/product/product-image5.png" alt="image">
                                     </a>
                                     <div class="product__content">
                                         <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">POP
@@ -989,8 +928,7 @@
                                         </div>
 
                                     </div>
-                                    <a class="product__cart d-block bor-top" href="#0"><i
-                                            class="fa-regular fa-cart-shopping primary-color me-1"></i>
+                                    <a class="product__cart d-block bor-top" href="#0"><i class="fa-regular fa-cart-shopping primary-color me-1"></i>
                                         <span>Add to
                                             cart</span></a>
                                 </div>
@@ -999,10 +937,8 @@
                                 <div class="product__item bor">
                                     <a href="#0" class="wishlist"><i class="fa-regular fa-heart"></i></a>
                                     <a href="shop-single.html" class="product__image pt-20 d-block">
-                                        <img class="font-image" src="assets/images/product/product-image7.png"
-                                            alt="image">
-                                        <img class="back-image" src="assets/images/product/product-image4.png"
-                                            alt="image">
+                                        <img class="font-image" src="assets/images/product/product-image7.png" alt="image">
+                                        <img class="back-image" src="assets/images/product/product-image4.png" alt="image">
                                     </a>
                                     <div class="product__content">
                                         <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">POP Extra
@@ -1017,8 +953,7 @@
                                         </div>
 
                                     </div>
-                                    <a class="product__cart d-block bor-top" href="#0"><i
-                                            class="fa-regular fa-cart-shopping primary-color me-1"></i>
+                                    <a class="product__cart d-block bor-top" href="#0"><i class="fa-regular fa-cart-shopping primary-color me-1"></i>
                                         <span>Add to
                                             cart</span></a>
                                 </div>
@@ -1027,10 +962,8 @@
                                 <div class="product__item bor">
                                     <a href="#0" class="wishlist"><i class="fa-regular fa-heart"></i></a>
                                     <a href="shop-single.html" class="product__image pt-20 d-block">
-                                        <img class="font-image" src="assets/images/product/product-image8.png"
-                                            alt="image">
-                                        <img class="back-image" src="assets/images/product/product-image4.png"
-                                            alt="image">
+                                        <img class="font-image" src="assets/images/product/product-image8.png" alt="image">
+                                        <img class="back-image" src="assets/images/product/product-image4.png" alt="image">
                                     </a>
                                     <div class="product__content">
                                         <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">100ml
@@ -1046,8 +979,7 @@
                                         </div>
 
                                     </div>
-                                    <a class="product__cart d-block bor-top" href="#0"><i
-                                            class="fa-regular fa-cart-shopping primary-color me-1"></i>
+                                    <a class="product__cart d-block bor-top" href="#0"><i class="fa-regular fa-cart-shopping primary-color me-1"></i>
                                         <span>Add to
                                             cart</span></a>
                                 </div>
@@ -1064,8 +996,7 @@
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-lg-6">
-                        <div class="image mb-5 mb-lg-0"><img src="assets/images/discount/discount-image2.png"
-                                alt="image"></div>
+                        <div class="image mb-5 mb-lg-0"><img src="assets/images/discount/discount-image2.png" alt="image"></div>
                     </div>
                     <div class="col-lg-6">
                         <div class="discount__item ps-0 pb-5 pb-lg-0 ps-lg-5">
@@ -1083,9 +1014,7 @@
                                 </p>
                                 <a class="btn-one wow fadeInUp" data-wow-delay=".3s" href="shop.html"><span>Shop
                                         Now</span></a>
-                                <a class="off-btn wow fadeInUp" data-wow-delay=".4s" href="#0"><img class="mr-10"
-                                        src="assets/images/icon/fire.svg" alt="icon"> GET <span
-                                        class="primary-color">25%
+                                <a class="off-btn wow fadeInUp" data-wow-delay=".4s" href="#0"><img class="mr-10" src="assets/images/icon/fire.svg" alt="icon"> GET <span class="primary-color">25%
                                         OFF</span> NOW</a>
                             </div>
                         </div>
@@ -1100,8 +1029,7 @@
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-xl-6">
-                        <h4 class="mb-30 wow fadeInUp" data-wow-delay=".1s"><img src="assets/images/icon/fire.svg"
-                                alt="icon">
+                        <h4 class="mb-30 wow fadeInUp" data-wow-delay=".1s"><img src="assets/images/icon/fire.svg" alt="icon">
                             GET <span class="primary-color">25% OFF</span> NOW</h4>
                         <div class="section-header d-flex align-items-center wow fadeInUp" data-wow-delay=".2s">
                             <span class="title-icon mr-10"></span>
@@ -1122,8 +1050,7 @@
                                 <li>Coupon $61.99, Code: W2</li>
                                 <li>30 Day Refund</li>
                             </ul>
-                            <div class="time-up d-flex flex-wrap align-items-center gap-5 mt-30 wow fadeInUp"
-                                data-wow-delay=".4s">
+                            <div class="time-up d-flex flex-wrap align-items-center gap-5 mt-30 wow fadeInUp" data-wow-delay=".4s">
                                 <div class="info">
                                     <h4>HUNGRY UP !</h4>
                                     <span>Offer end in :</span>
