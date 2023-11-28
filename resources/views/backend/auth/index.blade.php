@@ -1,4 +1,4 @@
-@extends('backend.layouts.main')
+@extends('backend.auth.layouts.main')
 
 @section('head')
 <title>Iglesias</title>
@@ -301,9 +301,11 @@
                         <div class="login__content">
                             <h2 class="text-white mb-65">Welcome Back</h2>
                             <div class="form-area login__form">
-                                <form action="#0">
-                                    <input type="email" placeholder="Email">
-                                    <input class="mt-30" type="password" placeholder="Enter Password">
+                                <form class="p-6" action="{{ route('login.post') }}" method="POST">
+                                    @csrf
+
+                                    <input name="email" type="email" id="email_address" placeholder="Email">
+                                    <input name="password" id="password" class="mt-30" type="password" placeholder="Enter Password">
                                     <button class="mt-30">Sign In</button>
                                     <div class="radio-btn mt-30">
                                         <span></span>

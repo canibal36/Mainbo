@@ -49,8 +49,7 @@ class AuthController extends Controller
 
         $credentials = $request->only('email', 'password');
         if (Auth::attempt($credentials)) {
-            $this->DetalleBitacoraController->store();
-            return redirect()->intended('inicio')
+            return redirect()->intended('dashboard')
                 ->withSuccess('You have Successfully loggedin');
         }
 
