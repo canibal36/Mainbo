@@ -30,7 +30,7 @@
         <div class="container">
             <div class="top__wrapper">
                 <a href="index.html" class="main__logo">
-                    <img src="assets/images/logo/logo.svg" alt="logo__image">
+                    <img src="assets-landing/images/logo/logo.svg" alt="logo__image">
                 </a>
                 <div class="search__wrp">
                     <input placeholder="Search for" aria-label="Search">
@@ -64,7 +64,7 @@
                     </div>
                     <div class="flag__wrap">
                         <div class="flag">
-                            <img src="assets/images/flag/us.png" alt="flag">
+                            <img src="assets-landing/images/flag/us.png" alt="flag">
                         </div>
                         <select name="flag">
                             <option value="0">
@@ -199,7 +199,7 @@
                 <div class="shipping__item d-none d-sm-flex align-items-center">
                     <div class="menu__right d-flex align-items-center">
                         <div class="thumb">
-                            <img src="assets/images/flag/picking.png" alt="image">
+                            <img src="assets-landing/images/flag/picking.png" alt="image">
                         </div>
                         <div class="content">
                             <p>
@@ -225,7 +225,7 @@
                     </div>
                     <div class="menu__right d-flex align-items-center">
                         <div class="thumb">
-                            <img src="assets/images/flag/shipping.png" alt="image">
+                            <img src="assets-landing/images/flag/shipping.png" alt="image">
                         </div>
                         <div class="content">
                             <p>
@@ -264,18 +264,18 @@
         <!-- Banner area start here -->
         <section class="banner-two">
             <div class="banner-two__shape-left d-none d-lg-block wow bounceInLeft" data-wow-duration="1s" data-wow-delay=".5s">
-                <img src="assets/images/shape/vape1.png" alt="shape">
+                <img src="assets-landing/images/shape/vape1.png" alt="shape">
             </div>
             <div class="banner-two__shape-right d-none d-lg-block wow bounceInRight" data-wow-duration="1s" data-wow-delay=".1s">
-                <img class="sway_Y__animation " src="assets/images/shape/vape2.png" alt="shape">
+                <img class="sway_Y__animation " src="assets-landing/images/shape/vape2.png" alt="shape">
             </div>
             <div class="swiper banner-two__slider">
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
-                        <div class="slide-bg" data-background="assets/images/fondo.gif"></div>
+                        <div class="slide-bg" data-background="assets-landing/images/fondo.gif"></div>
                         <div class="container">
                             <div class="banner-two__content">
-                                <h4 data-animation="fadeInUp" data-delay="1s"><img src="assets/images/icon/fire.svg" alt="icon"> GET <span class="primary-color">25% OFF</span> NOW</h4>
+                                <h4 data-animation="fadeInUp" data-delay="1s"><img src="assets-landing/images/icon/fire.svg" alt="icon"> GET <span class="primary-color">25% OFF</span> NOW</h4>
                                 <h1 data-animation="fadeInUp" data-delay="1.3s">Find everything <br>
                                     for <span class="primary-color">vaping</span></h1>
                                 <p class="mt-40" data-animation="fadeInUp" data-delay="1.5s">Sell globally in minutes
@@ -296,10 +296,10 @@
                         </div>
                     </div>
                     <div class="swiper-slide">
-                        <div class="slide-bg" data-background="assets/images/fondo.gif"></div>
+                        <div class="slide-bg" data-background="assets-landing/images/fondo.gif"></div>
                         <div class="container">
                             <div class="banner-two__content">
-                                <h4 data-animation="fadeInUp" data-delay="1s"><img src="assets/images/icon/fire.svg" alt="icon"> GET <span class="primary-color">25% OFF</span> NOW</h4>
+                                <h4 data-animation="fadeInUp" data-delay="1s"><img src="assets-landing/images/icon/fire.svg" alt="icon"> GET <span class="primary-color">25% OFF</span> NOW</h4>
                                 <h1 data-animation="fadeInUp" data-delay="1.3s">Find everything <br>
                                     for <span class="primary-color">vaping</span></h1>
                                 <p class="mt-40" data-animation="fadeInUp" data-delay="1.5s">Sell globally in minutes
@@ -321,10 +321,10 @@
                         </div>
                     </div>
                     <div class="swiper-slide">
-                        <div class="slide-bg" data-background="assets/images/banner/fondo.gif"></div>
+                        <div class="slide-bg" data-background="assets-landing/images/banner/fondo.gif"></div>
                         <div class="container">
                             <div class="banner-two__content">
-                                <h4 data-animation="fadeInUp" data-delay="1s"><img src="assets/images/icon/fire.svg" alt="icon"> GET <span class="primary-color">25% OFF</span> NOW</h4>
+                                <h4 data-animation="fadeInUp" data-delay="1s"><img src="assets-landing/images/icon/fire.svg" alt="icon"> GET <span class="primary-color">25% OFF</span> NOW</h4>
                                 <h1 data-animation="fadeInUp" data-delay="1.3s">Find everything <br>
                                     for <span class="primary-color">vaping</span></h1>
                                 <p class="mt-40" data-animation="fadeInUp" data-delay="1.5s">Sell globally in minutes
@@ -367,9 +367,9 @@
                             <div class="swiper-slide">
                                 <div class="category__item category-two__item text-center">
                                     <a href="shop.html" class="category__image d-block">
-                                        <img src="assets/images/category/category-image1.png" alt="image">
+                                        <img src="assets-landing/images/category/category-image1.png" alt="image">
                                         <div class="category-icon">
-                                            <img src="assets/images/category/category-icon1.png" alt="icon">
+                                            <img src="assets-landing/images/category/category-icon1.png" alt="icon">
                                         </div>
                                     </a>
                                     <h4 class="mt-30"><a href="shop.html">best e- juice</a></h4>
@@ -378,9 +378,9 @@
                             <div class="swiper-slide">
                                 <div class="category__item category-two__item text-center">
                                     <a href="shop.html" class="category__image d-block">
-                                        <img src="assets/images/category/category-image2.png" alt="image">
+                                        <img src="assets-landing/images/category/category-image2.png" alt="image">
                                         <div class="category-icon">
-                                            <img src="assets/images/category/category-icon2.png" alt="icon">
+                                            <img src="assets-landing/images/category/category-icon2.png" alt="icon">
                                         </div>
                                     </a>
                                     <h4 class="mt-30"><a href="shop.html">best mod</a></h4>
@@ -389,9 +389,9 @@
                             <div class="swiper-slide">
                                 <div class="category__item category-two__item text-center">
                                     <a href="shop.html" class="category__image d-block">
-                                        <img src="assets/images/category/category-image3.png" alt="image">
+                                        <img src="assets-landing/images/category/category-image3.png" alt="image">
                                         <div class="category-icon">
-                                            <img src="assets/images/category/category-icon3.png" alt="icon">
+                                            <img src="assets-landing/images/category/category-icon3.png" alt="icon">
                                         </div>
                                     </a>
                                     <h4 class="mt-30"><a href="shop.html">best pan</a></h4>
@@ -400,9 +400,9 @@
                             <div class="swiper-slide">
                                 <div class="category__item category-two__item text-center">
                                     <a href="shop.html" class="category__image d-block">
-                                        <img src="assets/images/category/category-image4.png" alt="image">
+                                        <img src="assets-landing/images/category/category-image4.png" alt="image">
                                         <div class="category-icon">
-                                            <img src="assets/images/category/category-icon4.png" alt="icon">
+                                            <img src="assets-landing/images/category/category-icon4.png" alt="icon">
                                         </div>
                                     </a>
                                     <h4 class="mt-30"><a href="shop.html">best pod</a></h4>
@@ -411,9 +411,9 @@
                             <div class="swiper-slide">
                                 <div class="category__item category-two__item text-center">
                                     <a href="shop.html" class="category__image d-block">
-                                        <img src="assets/images/category/category-image5.png" alt="image">
+                                        <img src="assets-landing/images/category/category-image5.png" alt="image">
                                         <div class="category-icon">
-                                            <img src="assets/images/category/category-icon5.png" alt="icon">
+                                            <img src="assets-landing/images/category/category-icon5.png" alt="icon">
                                         </div>
                                     </a>
                                     <h4 class="mt-30"><a href="shop.html">best tank</a></h4>
@@ -422,9 +422,9 @@
                             <div class="swiper-slide">
                                 <div class="category__item category-two__item text-center">
                                     <a href="shop.html" class="category__image d-block">
-                                        <img src="assets/images/category/category-image6.png" alt="image">
+                                        <img src="assets-landing/images/category/category-image6.png" alt="image">
                                         <div class="category-icon">
-                                            <img src="assets/images/category/category-icon6.png" alt="icon">
+                                            <img src="assets-landing/images/category/category-icon6.png" alt="icon">
                                         </div>
                                     </a>
                                     <h4 class="mt-30"><a href="shop.html">Best vaps</a></h4>
@@ -439,13 +439,13 @@
 
         <!-- View area start here -->
         <section class="view-area">
-            <div class="bg-image view__bg" data-background="assets/images/bg/view-bg.jpg"></div>
+            <div class="bg-image view__bg" data-background="assets-landing/images/bg/view-bg.jpg"></div>
             <div class="container">
                 <div class="row g-4">
                     <div class="col-lg-6 wow fadeInLeft" data-wow-delay=".1s">
                         <div class="view__left-item">
                             <div class="image">
-                                <img src="assets/images/view/view-image1.jpg" alt="image">
+                                <img src="assets-landing/images/view/view-image1.jpg" alt="image">
                             </div>
                             <div class="view__left-content sub-bg">
                                 <h2><a class="primary-hover" href="shop-single.html">The best e-liqued bundles</a>
@@ -455,7 +455,7 @@
                                     in every market. only a variety of vaping
                                     products</p>
                                 <a class="btn-two" href="shop-single.html"><span>Shop Now</span></a>
-                                <a class="off-btn" href="#0"><img class="mr-10" src="assets/images/icon/fire.svg" alt="icon"> GET
+                                <a class="off-btn" href="#0"><img class="mr-10" src="assets-landing/images/icon/fire.svg" alt="icon"> GET
                                     <span class="primary-color">25%
                                         OFF</span> NOW</a>
                             </div>
@@ -469,7 +469,7 @@
                                 <a class="btn-two" href="shop-single.html"><span>Shop Now</span></a>
                             </div>
                             <div class="view__image">
-                                <img src="assets/images/view/view-image2.jpg" alt="image">
+                                <img src="assets-landing/images/view/view-image2.jpg" alt="image">
                             </div>
                         </div>
                         <div class="view__item wow fadeInUp" data-wow-delay=".3s">
@@ -479,7 +479,7 @@
                                 <a class="btn-two" href="shop-single.html"><span>Shop Now</span></a>
                             </div>
                             <div class="view__image">
-                                <img src="assets/images/view/view-image3.jpg" alt="image">
+                                <img src="assets-landing/images/view/view-image3.jpg" alt="image">
                             </div>
                         </div>
                     </div>
@@ -521,8 +521,8 @@
                                 <div class="product__item bor">
                                     <a href="#0" class="wishlist"><i class="fa-regular fa-heart"></i></a>
                                     <a href="shop-single.html" class="product__image pt-20 d-block">
-                                        <img class="font-image" src="assets/images/product/product-image1.png" alt="image">
-                                        <img class="back-image" src="assets/images/product/product-image3.png" alt="image">
+                                        <img class="font-image" src="assets-landing/images/product/product-image1.png" alt="image">
+                                        <img class="back-image" src="assets-landing/images/product/product-image3.png" alt="image">
                                     </a>
                                     <div class="product__content">
                                         <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">Menthol
@@ -546,8 +546,8 @@
                                 <div class="product__item bor">
                                     <a href="#0" class="wishlist"><i class="fa-regular fa-heart"></i></a>
                                     <a href="shop-single.html" class="product__image pt-20 d-block">
-                                        <img class="font-image" src="assets/images/product/product-image2.png" alt="image">
-                                        <img class="back-image" src="assets/images/product/product-image4.png" alt="image">
+                                        <img class="font-image" src="assets-landing/images/product/product-image2.png" alt="image">
+                                        <img class="back-image" src="assets-landing/images/product/product-image4.png" alt="image">
                                     </a>
                                     <div class="product__content">
                                         <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">Disposable
@@ -571,8 +571,8 @@
                                 <div class="product__item bor">
                                     <a href="#0" class="wishlist"><i class="fa-regular fa-heart"></i></a>
                                     <a href="shop-single.html" class="product__image pt-20 d-block">
-                                        <img class="font-image" src="assets/images/product/product-image3.png" alt="image">
-                                        <img class="back-image" src="assets/images/product/product-image5.png" alt="image">
+                                        <img class="font-image" src="assets-landing/images/product/product-image3.png" alt="image">
+                                        <img class="back-image" src="assets-landing/images/product/product-image5.png" alt="image">
                                     </a>
                                     <div class="product__content">
                                         <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">POP
@@ -597,8 +597,8 @@
                                 <div class="product__item bor">
                                     <a href="#0" class="wishlist"><i class="fa-regular fa-heart"></i></a>
                                     <a href="shop-single.html" class="product__image pt-20 d-block">
-                                        <img class="font-image" src="assets/images/product/product-image4.png" alt="image">
-                                        <img class="back-image" src="assets/images/product/product-image6.png" alt="image">
+                                        <img class="font-image" src="assets-landing/images/product/product-image4.png" alt="image">
+                                        <img class="back-image" src="assets-landing/images/product/product-image6.png" alt="image">
                                     </a>
                                     <div class="product__content">
                                         <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">Battery
@@ -623,8 +623,8 @@
                                 <div class="product__item bor">
                                     <a href="#0" class="wishlist"><i class="fa-regular fa-heart"></i></a>
                                     <a href="shop-single.html" class="product__image pt-20 d-block">
-                                        <img class="font-image" src="assets/images/product/product-image5.png" alt="image">
-                                        <img class="back-image" src="assets/images/product/product-image3.png" alt="image">
+                                        <img class="font-image" src="assets-landing/images/product/product-image5.png" alt="image">
+                                        <img class="back-image" src="assets-landing/images/product/product-image3.png" alt="image">
                                     </a>
                                     <div class="product__content">
                                         <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">Pods
@@ -649,8 +649,8 @@
                                 <div class="product__item bor">
                                     <a href="#0" class="wishlist"><i class="fa-regular fa-heart"></i></a>
                                     <a href="shop-single.html" class="product__image pt-20 d-block">
-                                        <img class="font-image" src="assets/images/product/product-image6.png" alt="image">
-                                        <img class="back-image" src="assets/images/product/product-image4.png" alt="image">
+                                        <img class="font-image" src="assets-landing/images/product/product-image6.png" alt="image">
+                                        <img class="back-image" src="assets-landing/images/product/product-image4.png" alt="image">
                                     </a>
                                     <div class="product__content">
                                         <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">GeekVape
@@ -674,8 +674,8 @@
                                 <div class="product__item bor">
                                     <a href="#0" class="wishlist"><i class="fa-regular fa-heart"></i></a>
                                     <a href="shop-single.html" class="product__image pt-20 d-block">
-                                        <img class="font-image" src="assets/images/product/product-image7.png" alt="image">
-                                        <img class="back-image" src="assets/images/product/product-image4.png" alt="image">
+                                        <img class="font-image" src="assets-landing/images/product/product-image7.png" alt="image">
+                                        <img class="back-image" src="assets-landing/images/product/product-image4.png" alt="image">
                                     </a>
                                     <div class="product__content">
                                         <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">POP Extra
@@ -699,8 +699,8 @@
                                 <div class="product__item bor">
                                     <a href="#0" class="wishlist"><i class="fa-regular fa-heart"></i></a>
                                     <a href="shop-single.html" class="product__image pt-20 d-block">
-                                        <img class="font-image" src="assets/images/product/product-image8.png" alt="image">
-                                        <img class="back-image" src="assets/images/product/product-image4.png" alt="image">
+                                        <img class="font-image" src="assets-landing/images/product/product-image8.png" alt="image">
+                                        <img class="back-image" src="assets-landing/images/product/product-image4.png" alt="image">
                                     </a>
                                     <div class="product__content">
                                         <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">100ml
@@ -729,8 +729,8 @@
                                 <div class="product__item bor">
                                     <a href="#0" class="wishlist"><i class="fa-regular fa-heart"></i></a>
                                     <a href="shop-single.html" class="product__image pt-20 d-block">
-                                        <img class="font-image" src="assets/images/product/product-image4.png" alt="image">
-                                        <img class="back-image" src="assets/images/product/product-image6.png" alt="image">
+                                        <img class="font-image" src="assets-landing/images/product/product-image4.png" alt="image">
+                                        <img class="back-image" src="assets-landing/images/product/product-image6.png" alt="image">
                                     </a>
                                     <div class="product__content">
                                         <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">Battery
@@ -755,8 +755,8 @@
                                 <div class="product__item bor">
                                     <a href="#0" class="wishlist"><i class="fa-regular fa-heart"></i></a>
                                     <a href="shop-single.html" class="product__image pt-20 d-block">
-                                        <img class="font-image" src="assets/images/product/product-image5.png" alt="image">
-                                        <img class="back-image" src="assets/images/product/product-image3.png" alt="image">
+                                        <img class="font-image" src="assets-landing/images/product/product-image5.png" alt="image">
+                                        <img class="back-image" src="assets-landing/images/product/product-image3.png" alt="image">
                                     </a>
                                     <div class="product__content">
                                         <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">Pods
@@ -781,8 +781,8 @@
                                 <div class="product__item bor">
                                     <a href="#0" class="wishlist"><i class="fa-regular fa-heart"></i></a>
                                     <a href="shop-single.html" class="product__image pt-20 d-block">
-                                        <img class="font-image" src="assets/images/product/product-image6.png" alt="image">
-                                        <img class="back-image" src="assets/images/product/product-image4.png" alt="image">
+                                        <img class="font-image" src="assets-landing/images/product/product-image6.png" alt="image">
+                                        <img class="back-image" src="assets-landing/images/product/product-image4.png" alt="image">
                                     </a>
                                     <div class="product__content">
                                         <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">GeekVape
@@ -806,8 +806,8 @@
                                 <div class="product__item bor">
                                     <a href="#0" class="wishlist"><i class="fa-regular fa-heart"></i></a>
                                     <a href="shop-single.html" class="product__image pt-20 d-block">
-                                        <img class="font-image" src="assets/images/product/product-image7.png" alt="image">
-                                        <img class="back-image" src="assets/images/product/product-image4.png" alt="image">
+                                        <img class="font-image" src="assets-landing/images/product/product-image7.png" alt="image">
+                                        <img class="back-image" src="assets-landing/images/product/product-image4.png" alt="image">
                                     </a>
                                     <div class="product__content">
                                         <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">POP Extra
@@ -831,8 +831,8 @@
                                 <div class="product__item bor">
                                     <a href="#0" class="wishlist"><i class="fa-regular fa-heart"></i></a>
                                     <a href="shop-single.html" class="product__image pt-20 d-block">
-                                        <img class="font-image" src="assets/images/product/product-image8.png" alt="image">
-                                        <img class="back-image" src="assets/images/product/product-image4.png" alt="image">
+                                        <img class="font-image" src="assets-landing/images/product/product-image8.png" alt="image">
+                                        <img class="back-image" src="assets-landing/images/product/product-image4.png" alt="image">
                                     </a>
                                     <div class="product__content">
                                         <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">100ml
@@ -861,8 +861,8 @@
                                 <div class="product__item bor">
                                     <a href="#0" class="wishlist"><i class="fa-regular fa-heart"></i></a>
                                     <a href="shop-single.html" class="product__image pt-20 d-block">
-                                        <img class="font-image" src="assets/images/product/product-image1.png" alt="image">
-                                        <img class="back-image" src="assets/images/product/product-image3.png" alt="image">
+                                        <img class="font-image" src="assets-landing/images/product/product-image1.png" alt="image">
+                                        <img class="back-image" src="assets-landing/images/product/product-image3.png" alt="image">
                                     </a>
                                     <div class="product__content">
                                         <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">Menthol
@@ -886,8 +886,8 @@
                                 <div class="product__item bor">
                                     <a href="#0" class="wishlist"><i class="fa-regular fa-heart"></i></a>
                                     <a href="shop-single.html" class="product__image pt-20 d-block">
-                                        <img class="font-image" src="assets/images/product/product-image2.png" alt="image">
-                                        <img class="back-image" src="assets/images/product/product-image4.png" alt="image">
+                                        <img class="font-image" src="assets-landing/images/product/product-image2.png" alt="image">
+                                        <img class="back-image" src="assets-landing/images/product/product-image4.png" alt="image">
                                     </a>
                                     <div class="product__content">
                                         <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">Disposable
@@ -911,8 +911,8 @@
                                 <div class="product__item bor">
                                     <a href="#0" class="wishlist"><i class="fa-regular fa-heart"></i></a>
                                     <a href="shop-single.html" class="product__image pt-20 d-block">
-                                        <img class="font-image" src="assets/images/product/product-image3.png" alt="image">
-                                        <img class="back-image" src="assets/images/product/product-image5.png" alt="image">
+                                        <img class="font-image" src="assets-landing/images/product/product-image3.png" alt="image">
+                                        <img class="back-image" src="assets-landing/images/product/product-image5.png" alt="image">
                                     </a>
                                     <div class="product__content">
                                         <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">POP
@@ -937,8 +937,8 @@
                                 <div class="product__item bor">
                                     <a href="#0" class="wishlist"><i class="fa-regular fa-heart"></i></a>
                                     <a href="shop-single.html" class="product__image pt-20 d-block">
-                                        <img class="font-image" src="assets/images/product/product-image7.png" alt="image">
-                                        <img class="back-image" src="assets/images/product/product-image4.png" alt="image">
+                                        <img class="font-image" src="assets-landing/images/product/product-image7.png" alt="image">
+                                        <img class="back-image" src="assets-landing/images/product/product-image4.png" alt="image">
                                     </a>
                                     <div class="product__content">
                                         <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">POP Extra
@@ -962,8 +962,8 @@
                                 <div class="product__item bor">
                                     <a href="#0" class="wishlist"><i class="fa-regular fa-heart"></i></a>
                                     <a href="shop-single.html" class="product__image pt-20 d-block">
-                                        <img class="font-image" src="assets/images/product/product-image8.png" alt="image">
-                                        <img class="back-image" src="assets/images/product/product-image4.png" alt="image">
+                                        <img class="font-image" src="assets-landing/images/product/product-image8.png" alt="image">
+                                        <img class="back-image" src="assets-landing/images/product/product-image4.png" alt="image">
                                     </a>
                                     <div class="product__content">
                                         <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">100ml
@@ -992,11 +992,11 @@
         <!-- Product area end here -->
 
         <!-- Discount area start here -->
-        <section class="discount-area bg-image" data-background="assets/images/bg/discount-bg2.jpg">
+        <section class="discount-area bg-image" data-background="assets-landing/images/bg/discount-bg2.jpg">
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-lg-6">
-                        <div class="image mb-5 mb-lg-0"><img src="assets/images/discount/discount-image2.png" alt="image"></div>
+                        <div class="image mb-5 mb-lg-0"><img src="assets-landing/images/discount/discount-image2.png" alt="image"></div>
                     </div>
                     <div class="col-lg-6">
                         <div class="discount__item ps-0 pb-5 pb-lg-0 ps-lg-5">
@@ -1014,7 +1014,7 @@
                                 </p>
                                 <a class="btn-one wow fadeInUp" data-wow-delay=".3s" href="shop.html"><span>Shop
                                         Now</span></a>
-                                <a class="off-btn wow fadeInUp" data-wow-delay=".4s" href="#0"><img class="mr-10" src="assets/images/icon/fire.svg" alt="icon"> GET <span class="primary-color">25%
+                                <a class="off-btn wow fadeInUp" data-wow-delay=".4s" href="#0"><img class="mr-10" src="assets-landing/images/icon/fire.svg" alt="icon"> GET <span class="primary-color">25%
                                         OFF</span> NOW</a>
                             </div>
                         </div>
@@ -1029,7 +1029,7 @@
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-xl-6">
-                        <h4 class="mb-30 wow fadeInUp" data-wow-delay=".1s"><img src="assets/images/icon/fire.svg" alt="icon">
+                        <h4 class="mb-30 wow fadeInUp" data-wow-delay=".1s"><img src="assets-landing/images/icon/fire.svg" alt="icon">
                             GET <span class="primary-color">25% OFF</span> NOW</h4>
                         <div class="section-header d-flex align-items-center wow fadeInUp" data-wow-delay=".2s">
                             <span class="title-icon mr-10"></span>
@@ -1079,18 +1079,18 @@
                     <div class="col-xl-6">
                         <div class="get-now__image mt-5 mt-xl-0">
                             <div class="get-bg-image">
-                                <img src="assets/images/shop/get-bg.png" alt="image">
+                                <img src="assets-landing/images/shop/get-bg.png" alt="image">
                             </div>
                             <div class="swiper get__slider">
                                 <div class="swiper-wrapper">
                                     <div class="swiper-slide">
                                         <div class="image">
-                                            <img src="assets/images/shop/get-image.png" alt="image">
+                                            <img src="assets-landing/images/shop/get-image.png" alt="image">
                                         </div>
                                     </div>
                                     <div class="swiper-slide">
                                         <div class="image">
-                                            <img src="assets/images/shop/get-image2.png" alt="image">
+                                            <img src="assets-landing/images/shop/get-image2.png" alt="image">
                                         </div>
                                     </div>
                                 </div>
@@ -1116,15 +1116,15 @@
             <div class="marquee-inner to-left">
                 <ul class="marqee-list d-flex">
                     <li class="marquee-item">
-                        E-Cigarettes <img src="assets/images/icon/title-left.svg" alt="icon"> <span>Vape Pens</span>
-                        <img src="assets/images/icon/title-left.svg" alt="icon">
-                        Vape Juice <img src="assets/images/icon/title-left.svg" alt="icon"> <span>E-Cigarettes</span>
-                        <img src="assets/images/icon/title-left.svg" alt="icon">
-                        Vape Pens <img src="assets/images/icon/title-left.svg" alt="icon"> <span>Vape Juice</span>
-                        <img src="assets/images/icon/title-left.svg" alt="icon">
-                        E-Cigarettes <img src="assets/images/icon/title-left.svg" alt="icon"> <span>Vape Pens</span>
-                        <img src="assets/images/icon/title-left.svg" alt="icon">
-                        Vape Juice <img src="assets/images/icon/title-left.svg" alt="icon"> <span>E-Cigarettes</span>
+                        E-Cigarettes <img src="assets-landing/images/icon/title-left.svg" alt="icon"> <span>Vape Pens</span>
+                        <img src="assets-landing/images/icon/title-left.svg" alt="icon">
+                        Vape Juice <img src="assets-landing/images/icon/title-left.svg" alt="icon"> <span>E-Cigarettes</span>
+                        <img src="assets-landing/images/icon/title-left.svg" alt="icon">
+                        Vape Pens <img src="assets-landing/images/icon/title-left.svg" alt="icon"> <span>Vape Juice</span>
+                        <img src="assets-landing/images/icon/title-left.svg" alt="icon">
+                        E-Cigarettes <img src="assets-landing/images/icon/title-left.svg" alt="icon"> <span>Vape Pens</span>
+                        <img src="assets-landing/images/icon/title-left.svg" alt="icon">
+                        Vape Juice <img src="assets-landing/images/icon/title-left.svg" alt="icon"> <span>E-Cigarettes</span>
                     </li>
                 </ul>
             </div>
@@ -1143,7 +1143,7 @@
                             <div class="off-tag">50% <br>
                                 off</div>
                             <div class="gallery__image image">
-                                <img src="assets/images/gallery/gallery-image1.jpg" alt="image">
+                                <img src="assets-landing/images/gallery/gallery-image1.jpg" alt="image">
                             </div>
                             <div class="gallery__content">
                                 <h3 class="mb-10"><a href="shop-2.html">best e-lequid</a></h3>
@@ -1157,7 +1157,7 @@
                             <div class="off-tag">50% <br>
                                 off</div>
                             <div class="gallery__image image">
-                                <img src="assets/images/gallery/gallery-image2.jpg" alt="image">
+                                <img src="assets-landing/images/gallery/gallery-image2.jpg" alt="image">
                             </div>
                             <div class="gallery__content">
                                 <h3 class="mb-10"><a href="shop-2.html">best vape flavours</a></h3>
@@ -1171,7 +1171,7 @@
                             <div class="off-tag">50% <br>
                                 off</div>
                             <div class="gallery__image image">
-                                <img src="assets/images/gallery/gallery-image3.jpg" alt="image">
+                                <img src="assets-landing/images/gallery/gallery-image3.jpg" alt="image">
                             </div>
                             <div class="gallery__content">
                                 <h3 class="mb-10"><a href="shop-2.html">Battery And Charger Kit</a></h3>
@@ -1185,7 +1185,7 @@
                             <div class="off-tag">50% <br>
                                 off</div>
                             <div class="gallery__image image">
-                                <img src="assets/images/gallery/gallery-image4.jpg" alt="image">
+                                <img src="assets-landing/images/gallery/gallery-image4.jpg" alt="image">
                             </div>
                             <div class="gallery__content">
                                 <h3 class="mb-10"><a href="shop-2.html">best vape tanks</a></h3>
@@ -1199,7 +1199,7 @@
                             <div class="off-tag">50% <br>
                                 off</div>
                             <div class="gallery__image image">
-                                <img src="assets/images/gallery/gallery-image5.jpg" alt="image">
+                                <img src="assets-landing/images/gallery/gallery-image5.jpg" alt="image">
                             </div>
                             <div class="gallery__content">
                                 <h3 class="mb-10"><a href="shop-2.html">POP Extra Strawberry</a></h3>
@@ -1224,32 +1224,32 @@
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
                             <div class="brand__item bor radius-10 text-center p-4">
-                                <img src="assets/images/brand/brand1.png" alt="icon">
+                                <img src="assets-landing/images/brand/brand1.png" alt="icon">
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="brand__item bor radius-10 text-center p-4">
-                                <img src="assets/images/brand/brand2.png" alt="icon">
+                                <img src="assets-landing/images/brand/brand2.png" alt="icon">
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="brand__item bor radius-10 text-center p-4">
-                                <img src="assets/images/brand/brand3.png" alt="icon">
+                                <img src="assets-landing/images/brand/brand3.png" alt="icon">
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="brand__item bor radius-10 text-center p-4">
-                                <img src="assets/images/brand/brand4.png" alt="icon">
+                                <img src="assets-landing/images/brand/brand4.png" alt="icon">
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="brand__item bor radius-10 text-center p-4">
-                                <img src="assets/images/brand/brand5.png" alt="icon">
+                                <img src="assets-landing/images/brand/brand5.png" alt="icon">
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="brand__item bor radius-10 text-center p-4">
-                                <img src="assets/images/brand/brand6.png" alt="icon">
+                                <img src="assets-landing/images/brand/brand6.png" alt="icon">
                             </div>
                         </div>
                     </div>
@@ -1260,7 +1260,7 @@
     </main>
 
     <!-- Footer area start here -->
-    <footer class="footer-area bg-image" data-background="assets/images/footer/footer-bg.jpg">
+    <footer class="footer-area bg-image" data-background="assets-landing/images/footer/footer-bg.jpg">
         <div class="container">
             <div class="footer__wrp pt-65 pb-65 bor-top bor-bottom">
                 <div class="row g-4">
@@ -1319,11 +1319,11 @@
             </div>
             <div class="footer__copy-text pt-50 pb-50">
                 <a href="index.html" class="logo d-block">
-                    <img src="assets/images/logo/logo.svg" alt="logo">
+                    <img src="assets-landing/images/logo/logo.svg" alt="logo">
                 </a>
                 <p>&copy; Copyright 2023 <a href="#0" class="primary-hover">odor</a> All Rights Reserved</p>
                 <a href="#0" class="payment d-block image">
-                    <img src="assets/images/icon/payment.png" alt="icon">
+                    <img src="assets-landing/images/icon/payment.png" alt="icon">
                 </a>
             </div>
         </div>
