@@ -13,8 +13,8 @@
         <div id="bodyOverlay" class="w-screen h-screen fixed top-0 bg-slate-900 bg-opacity-50 backdrop-blur-sm z-10 hidden"></div>
         <div class="logo-segment">
             <a class="flex items-center" href="index.html">
-                <img src="assets/images/logo/logo-c.svg" class="black_logo" alt="logo">
-                <img src="assets/images/logo/logo-c-white.svg" class="white_logo" alt="logo">
+                <img src="assets-dashboard/images/logo/logo-c.svg" class="black_logo" alt="logo">
+                <img src="assets-dashboard/images/logo/logo-c-white.svg" class="white_logo" alt="logo">
                 <span class="ltr:ml-3 rtl:mr-3 text-xl font-Inter font-bold text-slate-900 dark:text-white">DashCode</span>
             </a>
             <!-- Sidebar Type Button -->
@@ -406,7 +406,7 @@
             </ul>
             <!-- Upgrade Your Business Plan Card Start -->
             <div class="bg-slate-900 mb-10 mt-24 p-4 relative text-center rounded-2xl text-white" id="sidebar_bottom_wizard">
-                <img src="assets/images/svg/rabit.svg" alt="" class="mx-auto relative -mt-[73px]">
+                <img src="assets-dashboard/images/svg/rabit.svg" alt="" class="mx-auto relative -mt-[73px]">
                 <div class="max-w-[160px] mx-auto mt-6">
                     <div class="widget-title font-Inter mb-1">Unlimited Access</div>
                     <div class="text-xs font-light font-Inter">
@@ -568,8 +568,8 @@
                     <div class="flex justify-between items-center h-full">
                         <div class="flex items-center md:space-x-4 space-x-2 xl:space-x-0 rtl:space-x-reverse vertical-box">
                             <a href="index.html" class="mobile-logo xl:hidden inline-block">
-                                <img src="assets/images/logo/logo-c.svg" class="black_logo" alt="logo">
-                                <img src="assets/images/logo/logo-c-white.svg" class="white_logo" alt="logo">
+                                <img src="assets-dashboard/images/logo/logo-c.svg" class="black_logo" alt="logo">
+                                <img src="assets-dashboard/images/logo/logo-c-white.svg" class="white_logo" alt="logo">
                             </a>
                             <button class="smallDeviceMenuController hidden md:inline-block xl:hidden">
                                 <iconify-icon class="leading-none bg-transparent relative text-xl top-[2px] text-slate-900 dark:text-white" icon="heroicons-outline:menu-alt-3"></iconify-icon>
@@ -586,12 +586,12 @@
                         <div class="items-center space-x-4 rtl:space-x-reverse horizental-box">
                             <a href="index.html">
                                 <span class="xl:inline-block hidden">
-                                    <img src="assets/images/logo/logo.svg" class="black_logo " alt="logo">
-                                    <img src="assets/images/logo/logo-white.svg" class="white_logo" alt="logo">
+                                    <img src="assets-dashboard/images/logo/logo.svg" class="black_logo " alt="logo">
+                                    <img src="assets-dashboard/images/logo/logo-white.svg" class="white_logo" alt="logo">
                                 </span>
                                 <span class="xl:hidden inline-block">
-                                    <img src="assets/images/logo/logo-c.svg" class="black_logo " alt="logo">
-                                    <img src="assets/images/logo/logo-c-white.svg" class="white_logo " alt="logo">
+                                    <img src="assets-dashboard/images/logo/logo-c.svg" class="black_logo " alt="logo">
+                                    <img src="assets-dashboard/images/logo/logo-c-white.svg" class="white_logo " alt="logo">
                                 </span>
                             </a>
                             <button class="smallDeviceMenuController  open-sdiebar-controller xl:hidden inline-block">
@@ -1719,7 +1719,7 @@
                                                     <div class="h-8 w-8 bg-white dark:bg-slate-700 rounded-full relative">
                                                         <span class="bg-secondary-500 w-[10px] h-[10px] rounded-full border border-white dark:border-slate-700 inline-block absolute
                 right-0 top-0"></span>
-                                                        <img src="/assets/images/all-img/user.png" alt="user" class="block w-full h-full object-cover rounded-full border hover:border-white border-transparent">
+                                                        <img src="/assets-dashboard/images/all-img/user.png" alt="user" class="block w-full h-full object-cover rounded-full border hover:border-white border-transparent">
                                                     </div>
                                                 </div>
                                                 <div class="flex-1">
@@ -1743,7 +1743,7 @@
                                                     <div class="h-8 w-8 bg-white dark:bg-slate-700 rounded-full relative">
                                                         <span class="bg-green-500 w-[10px] h-[10px] rounded-full border border-white dark:border-slate-700 inline-block absolute
                 right-0 top-0"></span>
-                                                        <img src="/assets/images/all-img/user2.png" alt="user" class="block w-full h-full object-cover rounded-full border hover:border-white border-transparent">
+                                                        <img src="/assets-dashboard/images/all-img/user2.png" alt="user" class="block w-full h-full object-cover rounded-full border hover:border-white border-transparent">
                                                     </div>
                                                 </div>
                                                 <div class="flex-1">
@@ -1763,7 +1763,7 @@
                                                     <div class="h-8 w-8 bg-white dark:bg-slate-700 rounded-full relative">
                                                         <span class="bg-green-500 w-[10px] h-[10px] rounded-full border border-white dark:border-slate-700 inline-block absolute
                 right-0 top-0"></span>
-                                                        <img src="/assets/images/all-img/user3.png" alt="user" class="block w-full h-full object-cover rounded-full border hover:border-white border-transparent">
+                                                        <img src="/assets-dashboard/images/all-img/user3.png" alt="user" class="block w-full h-full object-cover rounded-full border hover:border-white border-transparent">
                                                     </div>
                                                 </div>
                                                 <div class="flex-1">
@@ -1810,7 +1810,7 @@
                                             <div class="flex ltr:text-left rtl:text-right">
                                                 <div class="flex-none ltr:mr-3 rtl:ml-3">
                                                     <div class="h-8 w-8 bg-white rounded-full">
-                                                        <img src="/assets/images/all-img/user.png" alt="user" class="border-white block w-full h-full object-cover rounded-full border">
+                                                        <img src="/assets-dashboard/images/all-img/user.png" alt="user" class="border-white block w-full h-full object-cover rounded-full border">
                                                     </div>
                                                 </div>
                                                 <div class="flex-1">
@@ -1830,7 +1830,7 @@
                                             <div class="flex ltr:text-left rtl:text-right relative">
                                                 <div class="flex-none ltr:mr-3 rtl:ml-3">
                                                     <div class="h-8 w-8 bg-white rounded-full">
-                                                        <img src="/assets/images/all-img/user2.png" alt="user" class="border-transparent block w-full h-full object-cover rounded-full border">
+                                                        <img src="/assets-dashboard/images/all-img/user2.png" alt="user" class="border-transparent block w-full h-full object-cover rounded-full border">
                                                     </div>
                                                 </div>
                                                 <div class="flex-1">
@@ -1851,7 +1851,7 @@
                                         <div class="flex ltr:text-left rtl:text-right relative">
                                             <div class="flex-none ltr:mr-3 rtl:ml-3">
                                                 <div class="h-8 w-8 bg-white rounded-full">
-                                                    <img src="/assets/images/all-img/user3.png" alt="user" class="border-transparent block w-full h-full object-cover rounded-full border">
+                                                    <img src="/assets-dashboard/images/all-img/user3.png" alt="user" class="border-transparent block w-full h-full object-cover rounded-full border">
                                                 </div>
                                             </div>
                                             <div class="flex-1">
@@ -1868,7 +1868,7 @@
                                         <div class="flex ltr:text-left rtl:text-right relative">
                                             <div class="flex-none ltr:mr-3 rtl:ml-3">
                                                 <div class="h-8 w-8 bg-white rounded-full">
-                                                    <img src="/assets/images/all-img/user4.png" alt="user" class="border-transparent block w-full h-full object-cover rounded-full border">
+                                                    <img src="/assets-dashboard/images/all-img/user4.png" alt="user" class="border-transparent block w-full h-full object-cover rounded-full border">
                                                 </div>
                                             </div>
                                             <div class="flex-1">
@@ -1893,7 +1893,7 @@
                                 <button class="text-slate-800 dark:text-white focus:ring-0 focus:outline-none font-medium rounded-lg text-sm text-center
       inline-flex items-center" type="button" data-bs-toggle="dropdown" aria-expanded="false">
                                     <div class="lg:h-8 lg:w-8 h-7 w-7 rounded-full flex-1 ltr:mr-[10px] rtl:ml-[10px]">
-                                        <img src="assets/images/all-img/user.png" alt="user" class="block w-full h-full object-cover rounded-full">
+                                        <img src="assets-dashboard/images/all-img/user.png" alt="user" class="block w-full h-full object-cover rounded-full">
                                     </div>
                                     <span class="flex-none text-slate-600 dark:text-white text-sm font-normal items-center lg:flex hidden overflow-hidden text-ellipsis whitespace-nowrap">
                                         {{ Auth::user()->name}}
@@ -2013,7 +2013,7 @@
                                 </div>
                                 <div class="grid grid-cols-12 gap-5 mb-5">
                                     <div class="2xl:col-span-3 lg:col-span-4 col-span-12">
-                                        <div class="bg-no-repeat bg-cover bg-center p-4 rounded-[6px] relative" style="background-image: url(assets/images/all-img/widget-bg-1.png)">
+                                        <div class="bg-no-repeat bg-cover bg-center p-4 rounded-[6px] relative" style="background-image: url(assets-dashboard/images/all-img/widget-bg-1.png)">
                                             <div class="max-w-[180px]">
                                                 <div class="text-xl font-medium text-slate-900 mb-2">
                                                     Upgrade your Dashcode
@@ -2218,7 +2218,7 @@
                                                                             <div class="flex items-center">
                                                                                 <div class="flex-none">
                                                                                     <div class="w-8 h-8 rounded-[100%] ltr:mr-3 rtl:ml-3">
-                                                                                        <img src=assets/images/users/user-1.jpg alt="" class="w-full h-full rounded-[100%] object-cover">
+                                                                                        <img src=assets-dashboard/images/users/user-1.jpg alt="" class="w-full h-full rounded-[100%] object-cover">
                                                                                     </div>
                                                                                 </div>
                                                                                 <div class="flex-1 text-start">
@@ -2252,7 +2252,7 @@
                                                                             <div class="flex items-center">
                                                                                 <div class="flex-none">
                                                                                     <div class="w-8 h-8 rounded-[100%] ltr:mr-3 rtl:ml-3">
-                                                                                        <img src=assets/images/users/user-2.jpg alt="" class="w-full h-full rounded-[100%] object-cover">
+                                                                                        <img src=assets-dashboard/images/users/user-2.jpg alt="" class="w-full h-full rounded-[100%] object-cover">
                                                                                     </div>
                                                                                 </div>
                                                                                 <div class="flex-1 text-start">
@@ -2286,7 +2286,7 @@
                                                                             <div class="flex items-center">
                                                                                 <div class="flex-none">
                                                                                     <div class="w-8 h-8 rounded-[100%] ltr:mr-3 rtl:ml-3">
-                                                                                        <img src=assets/images/users/user-3.jpg alt="" class="w-full h-full rounded-[100%] object-cover">
+                                                                                        <img src=assets-dashboard/images/users/user-3.jpg alt="" class="w-full h-full rounded-[100%] object-cover">
                                                                                     </div>
                                                                                 </div>
                                                                                 <div class="flex-1 text-start">
@@ -2320,7 +2320,7 @@
                                                                             <div class="flex items-center">
                                                                                 <div class="flex-none">
                                                                                     <div class="w-8 h-8 rounded-[100%] ltr:mr-3 rtl:ml-3">
-                                                                                        <img src=assets/images/users/user-4.jpg alt="" class="w-full h-full rounded-[100%] object-cover">
+                                                                                        <img src=assets-dashboard/images/users/user-4.jpg alt="" class="w-full h-full rounded-[100%] object-cover">
                                                                                     </div>
                                                                                 </div>
                                                                                 <div class="flex-1 text-start">
@@ -2354,7 +2354,7 @@
                                                                             <div class="flex items-center">
                                                                                 <div class="flex-none">
                                                                                     <div class="w-8 h-8 rounded-[100%] ltr:mr-3 rtl:ml-3">
-                                                                                        <img src=assets/images/users/user-5.jpg alt="" class="w-full h-full rounded-[100%] object-cover">
+                                                                                        <img src=assets-dashboard/images/users/user-5.jpg alt="" class="w-full h-full rounded-[100%] object-cover">
                                                                                     </div>
                                                                                 </div>
                                                                                 <div class="flex-1 text-start">
@@ -2388,7 +2388,7 @@
                                                                             <div class="flex items-center">
                                                                                 <div class="flex-none">
                                                                                     <div class="w-8 h-8 rounded-[100%] ltr:mr-3 rtl:ml-3">
-                                                                                        <img src=assets/images/users/user-6.jpg alt="" class="w-full h-full rounded-[100%] object-cover">
+                                                                                        <img src=assets-dashboard/images/users/user-6.jpg alt="" class="w-full h-full rounded-[100%] object-cover">
                                                                                     </div>
                                                                                 </div>
                                                                                 <div class="flex-1 text-start">
@@ -2475,7 +2475,7 @@
                                                         <li class="flex items-center space-x-3 rtl:space-x-reverse border-b border-slate-100 dark:border-slate-700 last:border-b-0 pb-3 last:pb-0">
                                                             <div>
                                                                 <div class="w-8 h-8 rounded-[100%]">
-                                                                    <img src=assets/images/users/user-1.jpg alt="" class="w-full h-full rounded-[100%] object-cover">
+                                                                    <img src=assets-dashboard/images/users/user-1.jpg alt="" class="w-full h-full rounded-[100%] object-cover">
                                                                 </div>
                                                             </div>
                                                             <div class="text-start overflow-hidden text-ellipsis whitespace-nowrap max-w-[63%]">
@@ -2494,7 +2494,7 @@
                                                         <li class="flex items-center space-x-3 rtl:space-x-reverse border-b border-slate-100 dark:border-slate-700 last:border-b-0 pb-3 last:pb-0">
                                                             <div>
                                                                 <div class="w-8 h-8 rounded-[100%]">
-                                                                    <img src=assets/images/users/user-2.jpg alt="" class="w-full h-full rounded-[100%] object-cover">
+                                                                    <img src=assets-dashboard/images/users/user-2.jpg alt="" class="w-full h-full rounded-[100%] object-cover">
                                                                 </div>
                                                             </div>
                                                             <div class="text-start overflow-hidden text-ellipsis whitespace-nowrap max-w-[63%]">
@@ -2513,7 +2513,7 @@
                                                         <li class="flex items-center space-x-3 rtl:space-x-reverse border-b border-slate-100 dark:border-slate-700 last:border-b-0 pb-3 last:pb-0">
                                                             <div>
                                                                 <div class="w-8 h-8 rounded-[100%]">
-                                                                    <img src=assets/images/users/user-3.jpg alt="" class="w-full h-full rounded-[100%] object-cover">
+                                                                    <img src=assets-dashboard/images/users/user-3.jpg alt="" class="w-full h-full rounded-[100%] object-cover">
                                                                 </div>
                                                             </div>
                                                             <div class="text-start overflow-hidden text-ellipsis whitespace-nowrap max-w-[63%]">
@@ -2532,7 +2532,7 @@
                                                         <li class="flex items-center space-x-3 rtl:space-x-reverse border-b border-slate-100 dark:border-slate-700 last:border-b-0 pb-3 last:pb-0">
                                                             <div>
                                                                 <div class="w-8 h-8 rounded-[100%]">
-                                                                    <img src=assets/images/users/user-4.jpg alt="" class="w-full h-full rounded-[100%] object-cover">
+                                                                    <img src=assets-dashboard/images/users/user-4.jpg alt="" class="w-full h-full rounded-[100%] object-cover">
                                                                 </div>
                                                             </div>
                                                             <div class="text-start overflow-hidden text-ellipsis whitespace-nowrap max-w-[63%]">
@@ -2551,7 +2551,7 @@
                                                         <li class="flex items-center space-x-3 rtl:space-x-reverse border-b border-slate-100 dark:border-slate-700 last:border-b-0 pb-3 last:pb-0">
                                                             <div>
                                                                 <div class="w-8 h-8 rounded-[100%]">
-                                                                    <img src=assets/images/users/user-5.jpg alt="" class="w-full h-full rounded-[100%] object-cover">
+                                                                    <img src=assets-dashboard/images/users/user-5.jpg alt="" class="w-full h-full rounded-[100%] object-cover">
                                                                 </div>
                                                             </div>
                                                             <div class="text-start overflow-hidden text-ellipsis whitespace-nowrap max-w-[63%]">
@@ -2570,7 +2570,7 @@
                                                         <li class="flex items-center space-x-3 rtl:space-x-reverse border-b border-slate-100 dark:border-slate-700 last:border-b-0 pb-3 last:pb-0">
                                                             <div>
                                                                 <div class="w-8 h-8 rounded-[100%]">
-                                                                    <img src=assets/images/users/user-6.jpg alt="" class="w-full h-full rounded-[100%] object-cover">
+                                                                    <img src=assets-dashboard/images/users/user-6.jpg alt="" class="w-full h-full rounded-[100%] object-cover">
                                                                 </div>
                                                             </div>
                                                             <div class="text-start overflow-hidden text-ellipsis whitespace-nowrap max-w-[63%]">
@@ -2589,7 +2589,7 @@
                                                         <li class="flex items-center space-x-3 rtl:space-x-reverse border-b border-slate-100 dark:border-slate-700 last:border-b-0 pb-3 last:pb-0">
                                                             <div>
                                                                 <div class="w-8 h-8 rounded-[100%]">
-                                                                    <img src=assets/images/users/user-1.jpg alt="" class="w-full h-full rounded-[100%] object-cover">
+                                                                    <img src=assets-dashboard/images/users/user-1.jpg alt="" class="w-full h-full rounded-[100%] object-cover">
                                                                 </div>
                                                             </div>
                                                             <div class="text-start overflow-hidden text-ellipsis whitespace-nowrap max-w-[63%]">
@@ -2608,7 +2608,7 @@
                                                         <li class="flex items-center space-x-3 rtl:space-x-reverse border-b border-slate-100 dark:border-slate-700 last:border-b-0 pb-3 last:pb-0">
                                                             <div>
                                                                 <div class="w-8 h-8 rounded-[100%]">
-                                                                    <img src=assets/images/users/user-2.jpg alt="" class="w-full h-full rounded-[100%] object-cover">
+                                                                    <img src=assets-dashboard/images/users/user-2.jpg alt="" class="w-full h-full rounded-[100%] object-cover">
                                                                 </div>
                                                             </div>
                                                             <div class="text-start overflow-hidden text-ellipsis whitespace-nowrap max-w-[63%]">
@@ -2627,7 +2627,7 @@
                                                         <li class="flex items-center space-x-3 rtl:space-x-reverse border-b border-slate-100 dark:border-slate-700 last:border-b-0 pb-3 last:pb-0">
                                                             <div>
                                                                 <div class="w-8 h-8 rounded-[100%]">
-                                                                    <img src=assets/images/users/user-3.jpg alt="" class="w-full h-full rounded-[100%] object-cover">
+                                                                    <img src=assets-dashboard/images/users/user-3.jpg alt="" class="w-full h-full rounded-[100%] object-cover">
                                                                 </div>
                                                             </div>
                                                             <div class="text-start overflow-hidden text-ellipsis whitespace-nowrap max-w-[63%]">
@@ -2909,7 +2909,7 @@
             <a href="profile.html" class="relative bg-white bg-no-repeat backdrop-filter backdrop-blur-[40px] rounded-full footer-bg dark:bg-slate-700
       h-[65px] w-[65px] z-[-1] -mt-[40px] flex justify-center items-center">
                 <div class="h-[50px] w-[50px] rounded-full relative left-[0px] hrefp-[0px] custom-dropshadow">
-                    <img src="assets/images/users/user-1.jpg" alt="" class="w-full h-full rounded-full border-2 border-slate-100">
+                    <img src="assets-dashboard/images/users/user-1.jpg" alt="" class="w-full h-full rounded-full border-2 border-slate-100">
                 </div>
             </a>
             <a href="#">
