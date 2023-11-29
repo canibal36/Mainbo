@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Odor - Vape Store WooCommerce HTML Template</title>
+    <title>Mainbo</title>
     <!-- Favicon img -->
     <link rel="shortcut icon" href="assets-landing/images/favicon.png">
     <!-- Bootstarp min css -->
@@ -45,7 +45,7 @@
                         </div>
                         <a href="/login" class="acc__cont">
                             <span>
-                                My Account
+                                Acceso 
                             </span>
                         </a>
                     </div>
@@ -55,7 +55,7 @@
                         </span>
                         <a href="#0" class="c__one">
                             <span>
-                                $0.00
+                                Bs0.00
                             </span>
                         </a>
                         <span class="one">
@@ -68,7 +68,7 @@
                         </div>
                         <select name="flag">
                             <option value="0">
-                                Usa
+                                EEUU
                             </option>
                             <option value="1">
                                 Canada
@@ -85,169 +85,21 @@
             </div>
         </div>
     </div>
-    <header class="header-section">
-        <div class="container">
-            <div class="header-wrapper">
-                <div class="header-bar d-lg-none">
-                    <span></span>
-                    <span></span>
-                    <span></span>
-                </div>
-                <ul class="main-menu">
-                    <li>
-                        <a href="#0">Home <i class="fa-regular fa-angle-down"></i></a>
-                        <ul class="sub-menu">
-                            <li class="subtwohober">
-                                <a href="index.html">
-                                    Home One
-                                </a>
-                            </li>
-                            <li class="subtwohober">
-                                <a href="index-light.html">
-                                    Home One Light
-                                </a>
-                            </li>
-                            <li class="subtwohober">
-                                <a href="index-2.html">
-                                    Home Two
-                                </a>
-                            </li>
-                            <li class="subtwohober">
-                                <a href="index-2-light.html">
-                                    Home Two Light
-                                </a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li>
-                        <a href="about.html">About Us</a>
-                    </li>
-                    <li>
-                        <a href="#0">Pages <i class="fa-regular fa-angle-down"></i></a>
-                        <ul class="sub-menu">
-                            <li class="subtwohober">
-                                <a href="shop.html">
-                                    Shop Leftbar
-                                </a>
-                            </li>
-                            <li class="subtwohober">
-                                <a href="shop-2.html">
-                                    Shop Rightbar
-                                </a>
-                            </li>
-                            <li class="subtwohober">
-                                <a href="shop-single.html">
-                                    Shop Single
-                                </a>
-                            </li>
-                            <li class="subtwohober">
-                                <a href="cart.html">
-                                    Cart Page
-                                </a>
-                            </li>
-                            <li class="subtwohober">
-                                <a href="checkout.html">
-                                    Checkout Page
-                                </a>
-                            </li>
-                            <li class="subtwohober">
-                                <a href="register.html">
-                                    Register
-                                </a>
-                            </li>
-                            <li class="subtwohober">
-                                <a href="login.html">
-                                    Login
-                                </a>
-                            </li>
-                            <li class="subtwohober">
-                                <a href="error.html">
-                                    404 Error
-                                </a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li>
-                        <a href="#0">Blog <i class="fa-regular fa-angle-down"></i></a>
-                        <ul class="sub-menu">
-                            <li class="subtwohober">
-                                <a href="blog.html">
-                                    Blog Stander
-                                </a>
-                            </li>
-                            <li class="subtwohober">
-                                <a href="blog-grid.html">
-                                    Blog Grid
-                                </a>
-                            </li>
-                            <li class="subtwohober">
-                                <a href="blog-list.html">
-                                    Blog List
-                                </a>
-                            </li>
-                            <li class="subtwohober">
-                                <a href="blog-single.html">
-                                    Blog Single
-                                </a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li>
-                        <a href="contact.html">Contact Us</a>
-                    </li>
-                </ul>
-                <div class="shipping__item d-none d-sm-flex align-items-center">
-                    <div class="menu__right d-flex align-items-center">
-                        <div class="thumb">
-                            <img src="assets-landing/images/flag/picking.png" alt="image">
-                        </div>
-                        <div class="content">
-                            <p>
-                                Picking up?
-                            </p>
-                            <div class="items">
-                                <select class="form__select p-0">
-                                    <option value="1">
-                                        Select Store
-                                    </option>
-                                    <option value="2">
-                                        Store One
-                                    </option>
-                                    <option value="3">
-                                        Store Two
-                                    </option>
-                                    <option value="3">
-                                        Store Three
-                                    </option>
-                                </select>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="menu__right d-flex align-items-center">
-                        <div class="thumb">
-                            <img src="assets-landing/images/flag/shipping.png" alt="image">
-                        </div>
-                        <div class="content">
-                            <p>
-                                Free Shipping <br> on order <strong>over $100</strong>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </header>
-    <!-- Header area end here -->
+
+    <!-- aqui iniciaba en header -->
+
+
+    <!-- aui terminaba el header -->
+
 
     <!-- Preloader area start -->
     <div class="loading">
-        <span class="text-capitalize">L</span>
-        <span>o</span>
+        <span class="text-capitalize">M</span>
         <span>a</span>
-        <span>d</span>
         <span>i</span>
         <span>n</span>
-        <span>g</span>
+        <span>b</span>
+        <span>o</span>
     </div>
 
     <div id="preloader">
@@ -275,22 +127,17 @@
                         <div class="slide-bg" data-background="assets-landing/images/fondo.gif"></div>
                         <div class="container">
                             <div class="banner-two__content">
-                                <h4 data-animation="fadeInUp" data-delay="1s"><img src="assets-landing/images/icon/fire.svg" alt="icon"> GET <span class="primary-color">25% OFF</span> NOW</h4>
-                                <h1 data-animation="fadeInUp" data-delay="1.3s">Find everything <br>
-                                    for <span class="primary-color">vaping</span></h1>
-                                <p class="mt-40" data-animation="fadeInUp" data-delay="1.5s">Sell globally in minutes
-                                    with localized currencies languages, and <br> experie in
-                                    every
-                                    market. only a variety of vaping
-                                    products</p>
+                                <h4 data-animation="fadeInUp" data-delay="1s"><img src="assets-landing/images/icon/fire.svg" alt="icon"> Conseguir <span class="primary-color">25% De descuento</span> Ahora</h4>
+                                <h1 data-animation="fadeInUp" data-delay="1.3s">¡Encontraste nuestro catalogo de productos!  <br>
+                                    Somos <span class="primary-color">Mainbo</span></h1>
+                                <p class="mt-40" data-animation="fadeInUp" data-delay="1.5s">Este es el catalogo de ropa mas completo y detallado que podrias encontrar <br> Disfrutalo...</p>
                                 <div class="banner-two__info mt-30" data-animation="fadeInUp" data-delay="1.7s">
-                                    <span class="mb-10">Starting Price</span>
-                                    <h3>$99.00</h3>
+                                    <span class="mb-10">Oferta especial</span>
+                                    <h3>Bs 250.00</h3>
                                 </div>
                                 <div class="btn-wrp mt-65">
-                                    <a href="shop.html" class="btn-one" data-animation="fadeInUp" data-delay="1.8s"><span>Shop
-                                            Now</span></a>
-                                    <a class="btn-one-light ml-20" href="shop-single.html" data-animation="fadeInUp" data-delay="1.9s"><span>View Details</span></a>
+                                    <a href="shop.html" class="btn-one" data-animation="fadeInUp" data-delay="1.8s"><span>Proceso de compra</span></a>
+                                    <a class="btn-one-light ml-20" href="shop-single.html" data-animation="fadeInUp" data-delay="1.9s"><span>Detalles</span></a>
                                 </div>
                             </div>
                         </div>
@@ -299,23 +146,17 @@
                         <div class="slide-bg" data-background="assets-landing/images/fondo.gif"></div>
                         <div class="container">
                             <div class="banner-two__content">
-                                <h4 data-animation="fadeInUp" data-delay="1s"><img src="assets-landing/images/icon/fire.svg" alt="icon"> GET <span class="primary-color">25% OFF</span> NOW</h4>
-                                <h1 data-animation="fadeInUp" data-delay="1.3s">Find everything <br>
-                                    for <span class="primary-color">vaping</span></h1>
-                                <p class="mt-40" data-animation="fadeInUp" data-delay="1.5s">Sell globally in minutes
-                                    with localized currencies languages, and <br> experie in
-                                    every
-                                    market. only a variety of vaping
-                                    products</p>
+                                <h4 data-animation="fadeInUp" data-delay="1s"><img src="assets-landing/images/icon/fire.svg" alt="icon"> Conseguir <span class="primary-color">25% De descuento</span> Ahora</h4>
+                                <h1 data-animation="fadeInUp" data-delay="1.3s">¡Encontraste nuestro catalogo de productos!  <br>
+                                    Somos <span class="primary-color">Mainbo</span></h1>
+                                <p class="mt-40" data-animation="fadeInUp" data-delay="1.5s">Este es el catalogo de ropa mas completo y detallado que podrias encontrar <br> Disfrutalo...</p>
                                 <div class="banner-two__info mt-30" data-animation="fadeInUp" data-delay="1.7s">
-                                    <span class="mb-10">Starting Price</span>
-                                    <h3>$99.00</h3>
+                                    <span class="mb-10">Oferta especial</span>
+                                    <h3>Bs 250.00</h3>
                                 </div>
                                 <div class="btn-wrp mt-65">
-                                    <a href="shop.html" class="btn-one" data-animation="fadeInUp" data-delay="1.8s"><span>Shop
-                                            Now</span></a>
-                                    <a class="btn-one-light ml-20" href="shop-single.html" data-animation="fadeInUp" data-delay="1.9s"><span>View
-                                            Details</span></a>
+                                    <a href="shop.html" class="btn-one" data-animation="fadeInUp" data-delay="1.8s"><span>Proceso de compra</span></a>
+                                    <a class="btn-one-light ml-20" href="shop-single.html" data-animation="fadeInUp" data-delay="1.9s"><span>Detalles</span></a>
                                 </div>
                             </div>
                         </div>
@@ -324,23 +165,17 @@
                         <div class="slide-bg" data-background="assets-landing/images/banner/fondo.gif"></div>
                         <div class="container">
                             <div class="banner-two__content">
-                                <h4 data-animation="fadeInUp" data-delay="1s"><img src="assets-landing/images/icon/fire.svg" alt="icon"> GET <span class="primary-color">25% OFF</span> NOW</h4>
-                                <h1 data-animation="fadeInUp" data-delay="1.3s">Find everything <br>
-                                    for <span class="primary-color">vaping</span></h1>
-                                <p class="mt-40" data-animation="fadeInUp" data-delay="1.5s">Sell globally in minutes
-                                    with localized currencies languages, and <br> experie in
-                                    every
-                                    market. only a variety of vaping
-                                    products</p>
+                                <h4 data-animation="fadeInUp" data-delay="1s"><img src="assets-landing/images/icon/fire.svg" alt="icon"> Conseguir <span class="primary-color">25% De descuento</span> Ahora</h4>
+                                <h1 data-animation="fadeInUp" data-delay="1.3s">¡Encontraste nuestro catalogo de productos!  <br>
+                                    Somos <span class="primary-color">Mainbo</span></h1>
+                                <p class="mt-40" data-animation="fadeInUp" data-delay="1.5s">Este es el catalogo de ropa mas completo y detallado que podrias encontrar <br> Disfrutalo...</p>
                                 <div class="banner-two__info mt-30" data-animation="fadeInUp" data-delay="1.7s">
-                                    <span class="mb-10">Starting Price</span>
-                                    <h3>$99.00</h3>
+                                    <span class="mb-10">Oferta especial</span>
+                                    <h3>Bs 250.00</h3>
                                 </div>
                                 <div class="btn-wrp mt-65">
-                                    <a href="shop.html" class="btn-one" data-animation="fadeInUp" data-delay="1.8s"><span>Shop
-                                            Now</span></a>
-                                    <a class="btn-one-light ml-20" href="shop-single.html" data-animation="fadeInUp" data-delay="1.9s"><span>View
-                                            Details</span></a>
+                                    <a href="shop.html" class="btn-one" data-animation="fadeInUp" data-delay="1.8s"><span>Proceso de compra</span></a>
+                                    <a class="btn-one-light ml-20" href="shop-single.html" data-animation="fadeInUp" data-delay="1.9s"><span>Detalles</span></a>
                                 </div>
                             </div>
                         </div>
@@ -359,7 +194,7 @@
             <div class="container">
                 <div class="bor-bottom pb-130">
                     <div class="sub-title text-center mb-65 wow fadeInUp" data-wow-delay=".1s">
-                        <h3><span class="title-icon"></span> our top categories <span class="title-icon"></span>
+                        <h3><span class="title-icon"></span> Categorias principales <span class="title-icon"></span>
                         </h3>
                     </div>
                     <div class="swiper category__slider">
@@ -372,7 +207,7 @@
                                             <img src="assets-landing/images/category/category-icon1.png" alt="icon">
                                         </div>
                                     </a>
-                                    <h4 class="mt-30"><a href="shop.html">best e- juice</a></h4>
+                                    <h4 class="mt-30"><a href="shop.html">Camisas para hombre</a></h4>
                                 </div>
                             </div>
                             <div class="swiper-slide">
@@ -383,7 +218,7 @@
                                             <img src="assets-landing/images/category/category-icon2.png" alt="icon">
                                         </div>
                                     </a>
-                                    <h4 class="mt-30"><a href="shop.html">best mod</a></h4>
+                                    <h4 class="mt-30"><a href="shop.html">Camisas para mujer</a></h4>
                                 </div>
                             </div>
                             <div class="swiper-slide">
@@ -394,7 +229,7 @@
                                             <img src="assets-landing/images/category/category-icon3.png" alt="icon">
                                         </div>
                                     </a>
-                                    <h4 class="mt-30"><a href="shop.html">best pan</a></h4>
+                                    <h4 class="mt-30"><a href="shop.html">Blusas</a></h4>
                                 </div>
                             </div>
                             <div class="swiper-slide">
@@ -405,7 +240,7 @@
                                             <img src="assets-landing/images/category/category-icon4.png" alt="icon">
                                         </div>
                                     </a>
-                                    <h4 class="mt-30"><a href="shop.html">best pod</a></h4>
+                                    <h4 class="mt-30"><a href="shop.html">Pantalones para hombre</a></h4>
                                 </div>
                             </div>
                             <div class="swiper-slide">
@@ -416,7 +251,7 @@
                                             <img src="assets-landing/images/category/category-icon5.png" alt="icon">
                                         </div>
                                     </a>
-                                    <h4 class="mt-30"><a href="shop.html">best tank</a></h4>
+                                    <h4 class="mt-30"><a href="shop.html">Pantalones para mujer</a></h4>
                                 </div>
                             </div>
                             <div class="swiper-slide">
@@ -427,7 +262,7 @@
                                             <img src="assets-landing/images/category/category-icon6.png" alt="icon">
                                         </div>
                                     </a>
-                                    <h4 class="mt-30"><a href="shop.html">Best vaps</a></h4>
+                                    <h4 class="mt-30"><a href="shop.html">Bestidos</a></h4>
                                 </div>
                             </div>
                         </div>
@@ -448,25 +283,20 @@
                                 <img src="assets-landing/images/view/view-image1.jpg" alt="image">
                             </div>
                             <div class="view__left-content sub-bg">
-                                <h2><a class="primary-hover" href="shop-single.html">The best e-liqued bundles</a>
+                                <h2><a class="primary-hover" href="shop-single.html">Cinturones </a>
                                 </h2>
-                                <p class="fw-600">Sell globally in minutes with localized currencies languages, and
-                                    experie
-                                    in every market. only a variety of vaping
-                                    products</p>
-                                <a class="btn-two" href="shop-single.html"><span>Shop Now</span></a>
-                                <a class="off-btn" href="#0"><img class="mr-10" src="assets-landing/images/icon/fire.svg" alt="icon"> GET
-                                    <span class="primary-color">25%
-                                        OFF</span> NOW</a>
+                                <p class="fw-600"> Bestir bien ace la diferencia </p>
+                                <a class="btn-two" href="shop-single.html"><span>Comprar ahora </span></a>
+                               
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-6">
                         <div class="view__item mb-25 wow fadeInDown" data-wow-delay=".2s">
                             <div class="view__content">
-                                <h3><a class="primary-hover" href="shop-single.html">new to vapeing?</a></h3>
-                                <p>Whereas recognition of the inherent dignity</p>
-                                <a class="btn-two" href="shop-single.html"><span>Shop Now</span></a>
+                                <h3><a class="primary-hover" href="shop-single.html"> Gafas</a></h3>
+                                <p>contamos con una variedad de gafas de sol </p>
+                                <a class="btn-two" href="shop-single.html"><span>Comprar ahora </span></a>
                             </div>
                             <div class="view__image">
                                 <img src="assets-landing/images/view/view-image2.jpg" alt="image">
@@ -474,9 +304,9 @@
                         </div>
                         <div class="view__item wow fadeInUp" data-wow-delay=".3s">
                             <div class="view__content">
-                                <h3><a class="primary-hover" href="shop-single.html">Vap mode</a></h3>
-                                <p>Whereas recognition of the inherent dignity</p>
-                                <a class="btn-two" href="shop-single.html"><span>Shop Now</span></a>
+                                <h3><a class="primary-hover" href="shop-single.html">Cadenas Cubanas</a></h3>
+                                <p>Para ti que te gusta lucir como un artista</p>
+                                <a class="btn-two" href="shop-single.html"><span>Comprar ahora </span></a>
                             </div>
                             <div class="view__image">
                                 <img src="assets-landing/images/view/view-image3.jpg" alt="image">
@@ -494,22 +324,22 @@
                 <div class="product__wrp pb-30 mb-65 bor-bottom d-flex flex-wrap align-items-center justify-content-xl-between justify-content-center">
                     <div class="section-header d-flex align-items-center wow fadeInUp" data-wow-delay=".1s">
                         <span class="title-icon mr-10"></span>
-                        <h2>latest arrival products</h2>
+                        <h2>Últimos productos llegados</h2>
                     </div>
                     <ul class="nav nav-pills mt-4 mt-xl-0">
                         <li class="nav-item wow fadeInUp" data-wow-delay=".1s">
                             <a href="#latest-item" data-bs-toggle="tab" class="nav-link px-4 active">
-                                latest item
+                                Añadido recientemente
                             </a>
                         </li>
                         <li class="nav-item wow fadeInUp" data-wow-delay=".2s">
                             <a href="#top-ratting" data-bs-toggle="tab" class="nav-link px-4 bor-left bor-right">
-                                top ratting
+                                Mejor calificado
                             </a>
                         </li>
                         <li class="nav-item wow fadeInUp" data-wow-delay=".3s">
                             <a href="#featured-products" data-bs-toggle="tab" class="nav-link ps-4">
-                                featured products
+                                En descuento
                             </a>
                         </li>
                     </ul>
@@ -525,8 +355,7 @@
                                         <img class="back-image" src="assets-landing/images/product/product-image3.png" alt="image">
                                     </a>
                                     <div class="product__content">
-                                        <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">Menthol
-                                                E-Cigarette Kit</a></h4>
+                                        <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">Poleras polo</a></h4>
                                         <del>$74.50</del><span class="primary-color ml-10">$49.50</span>
                                         <div class="star mt-20">
                                             <i class="fa-solid fa-star"></i>
@@ -538,8 +367,7 @@
 
                                     </div>
                                     <a class="product__cart d-block bor-top" href="#0"><i class="fa-regular fa-cart-shopping primary-color me-1"></i>
-                                        <span>Add to
-                                            cart</span></a>
+                                        <span>Agregar al carrito</span></a>
                                 </div>
                             </div>
                             <div class="col-xxl-3 col-xl-4 col-md-6">
@@ -550,8 +378,7 @@
                                         <img class="back-image" src="assets-landing/images/product/product-image4.png" alt="image">
                                     </a>
                                     <div class="product__content">
-                                        <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">Disposable
-                                                Sub-Ohm Tank</a></h4>
+                                        <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">Pantalones elemnet</a></h4>
                                         <del>$74.50</del><span class="primary-color ml-10">$49.50</span>
                                         <div class="star mt-20">
                                             <i class="fa-solid fa-star"></i>
@@ -563,8 +390,7 @@
 
                                     </div>
                                     <a class="product__cart d-block bor-top" href="#0"><i class="fa-regular fa-cart-shopping primary-color me-1"></i>
-                                        <span>Add to
-                                            cart</span></a>
+                                        <span>Agregar al carrito</span></a>
                                 </div>
                             </div>
                             <div class="col-xxl-3 col-xl-4 col-md-6">
@@ -575,9 +401,7 @@
                                         <img class="back-image" src="assets-landing/images/product/product-image5.png" alt="image">
                                     </a>
                                     <div class="product__content">
-                                        <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">POP
-                                                Extra
-                                                Strawberry</a></h4>
+                                        <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">Canguros manga corta</a></h4>
                                         <del>$74.50</del><span class="primary-color ml-10">$49.50</span>
                                         <div class="star mt-20">
                                             <i class="fa-solid fa-star"></i>
@@ -589,8 +413,7 @@
 
                                     </div>
                                     <a class="product__cart d-block bor-top" href="#0"><i class="fa-regular fa-cart-shopping primary-color me-1"></i>
-                                        <span>Add to
-                                            cart</span></a>
+                                        <span>Agregar al carrito</span></a>
                                 </div>
                             </div>
                             <div class="col-xxl-3 col-xl-4 col-md-6">
@@ -601,9 +424,7 @@
                                         <img class="back-image" src="assets-landing/images/product/product-image6.png" alt="image">
                                     </a>
                                     <div class="product__content">
-                                        <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">Battery
-                                                And
-                                                Charger Kit</a></h4>
+                                        <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">Poleras louis vuitton</a></h4>
                                         <del>$74.50</del><span class="primary-color ml-10">$49.50</span>
                                         <div class="star mt-20">
                                             <i class="fa-solid fa-star"></i>
@@ -615,8 +436,7 @@
 
                                     </div>
                                     <a class="product__cart d-block bor-top" href="#0"><i class="fa-regular fa-cart-shopping primary-color me-1"></i>
-                                        <span>Add to
-                                            cart</span></a>
+                                        <span>Agregar al carrito</span></a>
                                 </div>
                             </div>
                             <div class="col-xxl-3 col-xl-4 col-md-6">
@@ -627,9 +447,7 @@
                                         <img class="back-image" src="assets-landing/images/product/product-image3.png" alt="image">
                                     </a>
                                     <div class="product__content">
-                                        <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">Pods
-                                                Sold
-                                                Separately</a></h4>
+                                        <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">Poleras fendi</a></h4>
                                         <del>$74.50</del><span class="primary-color ml-10">$49.50</span>
                                         <div class="star mt-20">
                                             <i class="fa-solid fa-star"></i>
@@ -641,8 +459,7 @@
 
                                     </div>
                                     <a class="product__cart d-block bor-top" href="#0"><i class="fa-regular fa-cart-shopping primary-color me-1"></i>
-                                        <span>Add to
-                                            cart</span></a>
+                                        <span>Agregar al carrito</span></a>
                                 </div>
                             </div>
                             <div class="col-xxl-3 col-xl-4 col-md-6">
@@ -653,8 +470,7 @@
                                         <img class="back-image" src="assets-landing/images/product/product-image4.png" alt="image">
                                     </a>
                                     <div class="product__content">
-                                        <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">GeekVape
-                                                Obelisk Pod</a></h4>
+                                        <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">Canguros versace</a></h4>
                                         <del>$74.50</del><span class="primary-color ml-10">$49.50</span>
                                         <div class="star mt-20">
                                             <i class="fa-solid fa-star"></i>
@@ -666,8 +482,7 @@
 
                                     </div>
                                     <a class="product__cart d-block bor-top" href="#0"><i class="fa-regular fa-cart-shopping primary-color me-1"></i>
-                                        <span>Add to
-                                            cart</span></a>
+                                        <span>Agregar al carrito</span></a>
                                 </div>
                             </div>
                             <div class="col-xxl-3 col-xl-4 col-md-6">
@@ -678,8 +493,7 @@
                                         <img class="back-image" src="assets-landing/images/product/product-image4.png" alt="image">
                                     </a>
                                     <div class="product__content">
-                                        <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">POP Extra
-                                                Strawberry</a></h4>
+                                        <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">Canguros over</a></h4>
                                         <del>$74.50</del><span class="primary-color ml-10">$49.50</span>
                                         <div class="star mt-20">
                                             <i class="fa-solid fa-star"></i>
@@ -691,8 +505,7 @@
 
                                     </div>
                                     <a class="product__cart d-block bor-top" href="#0"><i class="fa-regular fa-cart-shopping primary-color me-1"></i>
-                                        <span>Add to
-                                            cart</span></a>
+                                        <span>Agregar al carrito</span></a>
                                 </div>
                             </div>
                             <div class="col-xxl-3 col-xl-4 col-md-6">
@@ -703,9 +516,7 @@
                                         <img class="back-image" src="assets-landing/images/product/product-image4.png" alt="image">
                                     </a>
                                     <div class="product__content">
-                                        <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">100ml
-                                                Nic
-                                                Salt Juice</a></h4>
+                                        <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">Cinturones bb simon</a></h4>
                                         <del>$74.50</del><span class="primary-color ml-10">$49.50</span>
                                         <div class="star mt-20">
                                             <i class="fa-solid fa-star"></i>
@@ -717,8 +528,7 @@
 
                                     </div>
                                     <a class="product__cart d-block bor-top" href="#0"><i class="fa-regular fa-cart-shopping primary-color me-1"></i>
-                                        <span>Add to
-                                            cart</span></a>
+                                        <span>Agregar al carrito</span></a>
                                 </div>
                             </div>
                         </div>
@@ -733,9 +543,7 @@
                                         <img class="back-image" src="assets-landing/images/product/product-image6.png" alt="image">
                                     </a>
                                     <div class="product__content">
-                                        <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">Battery
-                                                And
-                                                Charger Kit</a></h4>
+                                        <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">Cinturones Y2K</a></h4>
                                         <del>$74.50</del><span class="primary-color ml-10">$49.50</span>
                                         <div class="star mt-20">
                                             <i class="fa-solid fa-star"></i>
@@ -747,8 +555,7 @@
 
                                     </div>
                                     <a class="product__cart d-block bor-top" href="#0"><i class="fa-regular fa-cart-shopping primary-color me-1"></i>
-                                        <span>Add to
-                                            cart</span></a>
+                                        <span>Agregar al carrito</span></a>
                                 </div>
                             </div>
                             <div class="col-xxl-3 col-xl-4 col-md-6">
@@ -759,9 +566,7 @@
                                         <img class="back-image" src="assets-landing/images/product/product-image3.png" alt="image">
                                     </a>
                                     <div class="product__content">
-                                        <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">Pods
-                                                Sold
-                                                Separately</a></h4>
+                                        <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">Bolsos supreme</a></h4>
                                         <del>$74.50</del><span class="primary-color ml-10">$49.50</span>
                                         <div class="star mt-20">
                                             <i class="fa-solid fa-star"></i>
@@ -773,8 +578,7 @@
 
                                     </div>
                                     <a class="product__cart d-block bor-top" href="#0"><i class="fa-regular fa-cart-shopping primary-color me-1"></i>
-                                        <span>Add to
-                                            cart</span></a>
+                                        <span>Agregar al carrito</span></a>
                                 </div>
                             </div>
                             <div class="col-xxl-3 col-xl-4 col-md-6">
@@ -785,8 +589,7 @@
                                         <img class="back-image" src="assets-landing/images/product/product-image4.png" alt="image">
                                     </a>
                                     <div class="product__content">
-                                        <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">GeekVape
-                                                Obelisk Pod</a></h4>
+                                        <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">Canguros Y2K</a></h4>
                                         <del>$74.50</del><span class="primary-color ml-10">$49.50</span>
                                         <div class="star mt-20">
                                             <i class="fa-solid fa-star"></i>
@@ -798,8 +601,7 @@
 
                                     </div>
                                     <a class="product__cart d-block bor-top" href="#0"><i class="fa-regular fa-cart-shopping primary-color me-1"></i>
-                                        <span>Add to
-                                            cart</span></a>
+                                        <span>Agregar al carrito</span></a>
                                 </div>
                             </div>
                             <div class="col-xxl-3 col-xl-4 col-md-6">
@@ -810,8 +612,7 @@
                                         <img class="back-image" src="assets-landing/images/product/product-image4.png" alt="image">
                                     </a>
                                     <div class="product__content">
-                                        <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">POP Extra
-                                                Strawberry</a></h4>
+                                        <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">Poleras louis vuitton</a></h4>
                                         <del>$74.50</del><span class="primary-color ml-10">$49.50</span>
                                         <div class="star mt-20">
                                             <i class="fa-solid fa-star"></i>
@@ -823,8 +624,7 @@
 
                                     </div>
                                     <a class="product__cart d-block bor-top" href="#0"><i class="fa-regular fa-cart-shopping primary-color me-1"></i>
-                                        <span>Add to
-                                            cart</span></a>
+                                        <span>Agregar al carrito</span></a>
                                 </div>
                             </div>
                             <div class="col-xxl-3 col-xl-4 col-md-6">
@@ -835,9 +635,7 @@
                                         <img class="back-image" src="assets-landing/images/product/product-image4.png" alt="image">
                                     </a>
                                     <div class="product__content">
-                                        <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">100ml
-                                                Nic
-                                                Salt Juice</a></h4>
+                                        <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">Poleras calvin klein</a></h4>
                                         <del>$74.50</del><span class="primary-color ml-10">$49.50</span>
                                         <div class="star mt-20">
                                             <i class="fa-solid fa-star"></i>
@@ -849,8 +647,7 @@
 
                                     </div>
                                     <a class="product__cart d-block bor-top" href="#0"><i class="fa-regular fa-cart-shopping primary-color me-1"></i>
-                                        <span>Add to
-                                            cart</span></a>
+                                        <span>Agregar al carrito</span></a>
                                 </div>
                             </div>
                         </div>
@@ -865,8 +662,7 @@
                                         <img class="back-image" src="assets-landing/images/product/product-image3.png" alt="image">
                                     </a>
                                     <div class="product__content">
-                                        <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">Menthol
-                                                E-Cigarette Kit</a></h4>
+                                        <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">Chamarra para invierno</a></h4>
                                         <del>$74.50</del><span class="primary-color ml-10">$49.50</span>
                                         <div class="star mt-20">
                                             <i class="fa-solid fa-star"></i>
@@ -878,8 +674,7 @@
 
                                     </div>
                                     <a class="product__cart d-block bor-top" href="#0"><i class="fa-regular fa-cart-shopping primary-color me-1"></i>
-                                        <span>Add to
-                                            cart</span></a>
+                                        <span>Agregar al carrito</span></a>
                                 </div>
                             </div>
                             <div class="col-xxl-3 col-xl-4 col-md-6">
@@ -890,8 +685,7 @@
                                         <img class="back-image" src="assets-landing/images/product/product-image4.png" alt="image">
                                     </a>
                                     <div class="product__content">
-                                        <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">Disposable
-                                                Sub-Ohm Tank</a></h4>
+                                        <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">Parkas </a></h4>
                                         <del>$74.50</del><span class="primary-color ml-10">$49.50</span>
                                         <div class="star mt-20">
                                             <i class="fa-solid fa-star"></i>
@@ -903,8 +697,7 @@
 
                                     </div>
                                     <a class="product__cart d-block bor-top" href="#0"><i class="fa-regular fa-cart-shopping primary-color me-1"></i>
-                                        <span>Add to
-                                            cart</span></a>
+                                        <span>Agregar al carrito</span></a>
                                 </div>
                             </div>
                             <div class="col-xxl-3 col-xl-4 col-md-6">
@@ -915,9 +708,7 @@
                                         <img class="back-image" src="assets-landing/images/product/product-image5.png" alt="image">
                                     </a>
                                     <div class="product__content">
-                                        <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">POP
-                                                Extra
-                                                Strawberry</a></h4>
+                                        <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">Blusas versace</a></h4>
                                         <del>$74.50</del><span class="primary-color ml-10">$49.50</span>
                                         <div class="star mt-20">
                                             <i class="fa-solid fa-star"></i>
@@ -929,8 +720,7 @@
 
                                     </div>
                                     <a class="product__cart d-block bor-top" href="#0"><i class="fa-regular fa-cart-shopping primary-color me-1"></i>
-                                        <span>Add to
-                                            cart</span></a>
+                                        <span>Agregar al carrito</span></a>
                                 </div>
                             </div>
                             <div class="col-xxl-3 col-xl-4 col-md-6">
@@ -941,8 +731,7 @@
                                         <img class="back-image" src="assets-landing/images/product/product-image4.png" alt="image">
                                     </a>
                                     <div class="product__content">
-                                        <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">POP Extra
-                                                Strawberry</a></h4>
+                                        <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">Poleras lacostes</a></h4>
                                         <del>$74.50</del><span class="primary-color ml-10">$49.50</span>
                                         <div class="star mt-20">
                                             <i class="fa-solid fa-star"></i>
@@ -954,8 +743,7 @@
 
                                     </div>
                                     <a class="product__cart d-block bor-top" href="#0"><i class="fa-regular fa-cart-shopping primary-color me-1"></i>
-                                        <span>Add to
-                                            cart</span></a>
+                                        <span>Agregar al carrito</span></a>
                                 </div>
                             </div>
                             <div class="col-xxl-3 col-xl-4 col-md-6">
@@ -966,9 +754,7 @@
                                         <img class="back-image" src="assets-landing/images/product/product-image4.png" alt="image">
                                     </a>
                                     <div class="product__content">
-                                        <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">100ml
-                                                Nic
-                                                Salt Juice</a></h4>
+                                        <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">Jogers element</a></h4>
                                         <del>$74.50</del><span class="primary-color ml-10">$49.50</span>
                                         <div class="star mt-20">
                                             <i class="fa-solid fa-star"></i>
@@ -980,8 +766,7 @@
 
                                     </div>
                                     <a class="product__cart d-block bor-top" href="#0"><i class="fa-regular fa-cart-shopping primary-color me-1"></i>
-                                        <span>Add to
-                                            cart</span></a>
+                                        <span>Agregar al carrito</span></a>
                                 </div>
                             </div>
                         </div>
@@ -1003,19 +788,15 @@
                             <div class="section-header">
                                 <div class="section-title-icon wow fadeInUp" data-wow-delay=".1s">
                                     <span class="title-icon mr-10"></span>
-                                    <h2>find your best favourite</h2>
+                                    <h2>Tu Carrito de compras</h2>
                                 </div>
-                                <p class="mt-30 mb-55 wow fadeInUp" data-wow-delay=".2s">Sell globally in minutes with
-                                    localized currencies languages, and
+                                <p class="mt-30 mb-55 wow fadeInUp" data-wow-delay=".2s"> Aqui podras revisar y editar los productos que ya añadiste al
                                     <br>
-                                    experie in every
-                                    market. only a variety of vaping
-                                    products
+                                    Carrito de compras.
                                 </p>
-                                <a class="btn-one wow fadeInUp" data-wow-delay=".3s" href="shop.html"><span>Shop
-                                        Now</span></a>
-                                <a class="off-btn wow fadeInUp" data-wow-delay=".4s" href="#0"><img class="mr-10" src="assets-landing/images/icon/fire.svg" alt="icon"> GET <span class="primary-color">25%
-                                        OFF</span> NOW</a>
+                                <a class="btn-one wow fadeInUp" data-wow-delay=".3s" href="shop.html"><span>ir al Carrito</span></a>
+                                <a class="off-btn wow fadeInUp" data-wow-delay=".4s" href="#0"><img class="mr-10" src="assets-landing/images/icon/fire.svg" alt="icon"> Conseguir <span class="primary-color">25%
+                                        De Descuento</span> Ahora</a>
                             </div>
                         </div>
                     </div>
@@ -1024,45 +805,41 @@
         </section>
         <!-- Discount area end here -->
 
-        <!-- Get now area start here -->
+        <!-- Conseguir now area start here -->
         <section class="get-now-area pt-130 pb-130">
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-xl-6">
                         <h4 class="mb-30 wow fadeInUp" data-wow-delay=".1s"><img src="assets-landing/images/icon/fire.svg" alt="icon">
-                            GET <span class="primary-color">25% OFF</span> NOW</h4>
+                            Conseguir <span class="primary-color">25% De Descuento</span> Ahora</h4>
                         <div class="section-header d-flex align-items-center wow fadeInUp" data-wow-delay=".2s">
                             <span class="title-icon mr-10"></span>
-                            <h2>latest arrival products</h2>
+                            <h2>Esta es nuestra promoción actual</h2>
                         </div>
                         <div class="get-now__content">
                             <div class="get-info py-4 wow fadeInUp" data-wow-delay=".2s">
-                                <del>$99.00</del> <span>$49.00</span>
+                                <del>Bs 250.00</del> <span>Bs 125.00</span>
                             </div>
-                            <p class="fw-600 wow fadeInUp" data-wow-delay=".3s">There are many variations of passages of
-                                Lorem Ipsum available, but <br>
-                                the
-                                majority have
-                                suffered alteration in some form,
-                                by injected humour, or randomised words which</p>
+                            <p class="fw-600 wow fadeInUp" data-wow-delay=".3s">Todos nuestros productos al 2 x 1 <br>
+                                Asi es paga por uno y te llevas dos. </p>
                             <ul class="pt-30 pb-30 bor-bottom wow fadeInUp" data-wow-delay=".3s">
-                                <li>100% Natural</li>
-                                <li>Coupon $61.99, Code: W2</li>
-                                <li>30 Day Refund</li>
+                                <li>Tiempo:</li>
+                                <li>Inicio de la promoción 01/12/23</li>
+                                <li>Fin de la promoción 10/12/23</li>
                             </ul>
                             <div class="time-up d-flex flex-wrap align-items-center gap-5 mt-30 wow fadeInUp" data-wow-delay=".4s">
                                 <div class="info">
-                                    <h4>HUNGRY UP !</h4>
-                                    <span>Offer end in :</span>
+                                    <h4>¡Aprovecha!</h4>
+                                    <span>La oferta finaliza en:</span>
                                 </div>
                                 <div class="d-flex gap-2 align-items-center">
                                     <div class="get-time">
                                         <h3 id="day">00</h3>
-                                        <span>Day</span>
+                                        <span>Dias</span>
                                     </div>
                                     <div class="get-time">
                                         <h3 id="hour">00</h3>
-                                        <span>Hr</span>
+                                        <span>Hrs</span>
                                     </div>
                                     <div class="get-time">
                                         <h3 id="min">00</h3>
@@ -1116,15 +893,15 @@
             <div class="marquee-inner to-left">
                 <ul class="marqee-list d-flex">
                     <li class="marquee-item">
-                        E-Cigarettes <img src="assets-landing/images/icon/title-left.svg" alt="icon"> <span>Vape Pens</span>
+                         Mainbo <img src="assets-landing/images/icon/title-left.svg" alt="icon"> <span>Moda</span>
                         <img src="assets-landing/images/icon/title-left.svg" alt="icon">
-                        Vape Juice <img src="assets-landing/images/icon/title-left.svg" alt="icon"> <span>E-Cigarettes</span>
+                         Mainbo <img src="assets-landing/images/icon/title-left.svg" alt="icon"> <span>Moda</span>
                         <img src="assets-landing/images/icon/title-left.svg" alt="icon">
-                        Vape Pens <img src="assets-landing/images/icon/title-left.svg" alt="icon"> <span>Vape Juice</span>
+                         Mainbo <img src="assets-landing/images/icon/title-left.svg" alt="icon"> <span>Moda</span>
                         <img src="assets-landing/images/icon/title-left.svg" alt="icon">
-                        E-Cigarettes <img src="assets-landing/images/icon/title-left.svg" alt="icon"> <span>Vape Pens</span>
+                         Mainbo <img src="assets-landing/images/icon/title-left.svg" alt="icon"> <span>Moda</span>
                         <img src="assets-landing/images/icon/title-left.svg" alt="icon">
-                        Vape Juice <img src="assets-landing/images/icon/title-left.svg" alt="icon"> <span>E-Cigarettes</span>
+                         Mainbo <img src="assets-landing/images/icon/title-left.svg" alt="icon"> <span>Moda</span>
                     </li>
                 </ul>
             </div>
@@ -1217,7 +994,7 @@
         <section class="brand-area pt-130 pb-130">
             <div class="container">
                 <div class="sub-title text-center mb-65">
-                    <h3><span class="title-icon"></span> our top brands <span class="title-icon"></span>
+                    <h3><span class="title-icon"></span> Las marcas que vendemos <span class="title-icon"></span>
                     </h3>
                 </div>
                 <div class="swiper brand__slider">
