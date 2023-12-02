@@ -280,7 +280,7 @@
                     <div class="col-lg-6 wow fadeInLeft" data-wow-delay=".1s">
                         <div class="view__left-item">
                             <div class="image">
-                                <img src="assets-landing/images/view/view-image1.jpg" alt="image">
+                                <img src="assets-landing/images/view/cinturonportada1.jpg" alt="image">
                             </div>
                             <div class="view__left-content sub-bg">
                                 <h2><a class="primary-hover" href="shop-single.html">Cinturones </a>
@@ -294,12 +294,12 @@
                     <div class="col-lg-6">
                         <div class="view__item mb-25 wow fadeInDown" data-wow-delay=".2s">
                             <div class="view__content">
-                                <h3><a class="primary-hover" href="shop-single.html"> Gafas</a></h3>
-                                <p>contamos con una variedad de gafas de sol </p>
+                                <h3><a class="primary-hover" href="shop-single.html"> Relojes</a></h3>
+                                <p>contamos con una variedad de relojes. </p>
                                 <a class="btn-two" href="shop-single.html"><span>Comprar ahora </span></a>
                             </div>
                             <div class="view__image">
-                                <img src="assets-landing/images/view/view-image2.jpg" alt="image">
+                                <img src="assets-landing/images/view/reloj1.jpg" alt="image">
                             </div>
                         </div>
                         <div class="view__item wow fadeInUp" data-wow-delay=".3s">
@@ -309,7 +309,7 @@
                                 <a class="btn-two" href="shop-single.html"><span>Comprar ahora </span></a>
                             </div>
                             <div class="view__image">
-                                <img src="assets-landing/images/view/view-image3.jpg" alt="image">
+                                <img src="assets-landing/images/view/cubanas1.jpg" alt="image">
                             </div>
                         </div>
                     </div>
@@ -1043,13 +1043,13 @@
                 <div class="row g-4">
                     <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-duration="1.1s" data-wow-delay=".1s">
                         <div class="footer__item">
-                            <h4 class="footer-title">Customer Service</h4>
+                            <h4 class="footer-title">Servicio al cliente</h4>
                             <ul>
-                                <li><a href="contact.html"><span></span>Help Portal</a></li>
-                                <li><a href="contact.html"><span></span>Contact Us</a></li>
-                                <li><a href="error.html"><span></span>Delivery Information</a></li>
-                                <li><a href="error.html"><span></span>Click and Collect</a></li>
-                                <li><a href="error.html"><span></span>Refunds and Returns</a></li>
+                                <li><a href="contact.html"><span></span>Portal de ayuda</a></li>
+                                <li><a href="contact.html"><span></span>Contactenos</a></li>
+                                <li><a href="error.html"><span></span>Informacion de envio</a></li>
+                                <li><a href="error.html"><span></span>Entrega</a></li>
+                                <li><a href="error.html"><span></span>Reembolso o devoluciones</a></li>
                             </ul>
                         </div>
                     </div>
@@ -1057,9 +1057,9 @@
                         <div class="footer__item">
                             <h4 class="footer-title">Get to Know Us</h4>
                             <ul>
-                                <li><a href="about.html"><span></span>About Us</a></li>
-                                <li><a href="blog-grid.html"><span></span>News & Blog</a></li>
-                                <li><a href="error.html"><span></span>Careers</a></li>
+                                <li><a href="about.html"><span></span>Sobre nosotros</a></li>
+                                <li><a href="blog-grid.html"><span></span>Informacion de Mainboo</a></li>
+                                <li><a href="error.html"><span></span>carreras</a></li>
                                 <li><a href="error.html"><span></span>Investors</a></li>
                                 <li><a href="contact.html"><span></span>Contact Us</a></li>
                             </ul>
