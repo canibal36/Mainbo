@@ -22,6 +22,8 @@
     <link rel="stylesheet" href="assets-landing/css/nice-select.css">
     <!-- Style css -->
     <link rel="stylesheet" href="assets-landing/css/style.css">
+    
+    <link" href">;
 </head>
 
 <body>
@@ -66,20 +68,20 @@
                         <div class="flag">
                             <img src="assets-landing/images/flag/us.png" alt="flag">
                         </div>
-                        <select name="flag">
-                            <option value="0">
-                                EEUU
-                            </option>
-                            <option value="1">
-                                Canada
-                            </option>
-                            <option value="2">
-                                Australia
-                            </option>
-                            <option value="3">
-                                Germany
-                            </option>
-                        </select>
+                            <select name="flag">
+                                <option value="0">
+                                    EEUU
+                                </option>
+                                <option value="1">
+                                    Canada
+                                </option>
+                                <option value="2">
+                                    Australia
+                                </option>
+                                <option value="3">
+                                    Germany
+                                </option>
+                            </select>
                     </div>
                 </div>
             </div>
@@ -923,7 +925,7 @@
                                 <img src="assets-landing/images/gallery/gallery-image1.jpg" alt="image">
                             </div>
                             <div class="gallery__content">
-                                <h3 class="mb-10"><a href="shop-2.html">best e-lequid</a></h3>
+                                <h3 class="mb-10"><a href="shop-2.html">Productos en descuento</a></h3>
                                 <p>Best E liquids from our huge collection</p>
                                 <a href="shop-2.html" class="btn-two mt-25"><span>Shop Now</span></a>
                             </div>
@@ -937,7 +939,7 @@
                                 <img src="assets-landing/images/gallery/gallery-image2.jpg" alt="image">
                             </div>
                             <div class="gallery__content">
-                                <h3 class="mb-10"><a href="shop-2.html">best vape flavours</a></h3>
+                                <h3 class="mb-10"><a href="shop-2.html">Productos en descuento</a></h3>
                                 <p>Best E liquids from our huge collection</p>
                                 <a href="shop-2.html" class="btn-two mt-25"><span>Shop Now</span></a>
                             </div>
@@ -951,7 +953,7 @@
                                 <img src="assets-landing/images/gallery/gallery-image3.jpg" alt="image">
                             </div>
                             <div class="gallery__content">
-                                <h3 class="mb-10"><a href="shop-2.html">Battery And Charger Kit</a></h3>
+                                <h3 class="mb-10"><a href="shop-2.html">Productos en descuento</a></h3>
                                 <p>Best E liquids from our huge collection</p>
                                 <a href="shop-2.html" class="btn-two mt-25"><span>Shop Now</span></a>
                             </div>
@@ -965,7 +967,7 @@
                                 <img src="assets-landing/images/gallery/gallery-image4.jpg" alt="image">
                             </div>
                             <div class="gallery__content">
-                                <h3 class="mb-10"><a href="shop-2.html">best vape tanks</a></h3>
+                                <h3 class="mb-10"><a href="shop-2.html">Productos en descuento</a></h3>
                                 <p>Best E liquids from our huge collection</p>
                                 <a href="shop-2.html" class="btn-two mt-25"><span>Shop Now</span></a>
                             </div>
@@ -979,7 +981,7 @@
                                 <img src="assets-landing/images/gallery/gallery-image5.jpg" alt="image">
                             </div>
                             <div class="gallery__content">
-                                <h3 class="mb-10"><a href="shop-2.html">POP Extra Strawberry</a></h3>
+                                <h3 class="mb-10"><a href="shop-2.html">Productos en descuento</a></h3>
                                 <p>Best E liquids from our huge collection</p>
                                 <a href="shop-2.html" class="btn-two mt-25"><span>Shop Now</span></a>
                             </div>
@@ -1045,27 +1047,27 @@
                         <div class="footer__item">
                             <h4 class="footer-title">Servicio al cliente</h4>
                             <ul>
-                                <li><a href="contact.html"><span></span>Portal de ayuda</a></li>
+                                <li><a href="contact.html"><span></span>Informacion de envio, Entrega y reembolso o devolucion</a></li>
                                 <li><a href="contact.html"><span></span>Contactenos</a></li>
-                                <li><a href="error.html"><span></span>Informacion de envio, Entrega y reembolso o devoluciones</a></li>
+                                <li><a href="error.html"><span></span> </a>Portal de ayuda</li>
                             </ul>
                         </div>
                     </div>
                     <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-duration="1.2s" data-wow-delay=".2s">
                         <div class="footer__item">
-                            <h4 class="footer-title">Infomacion sobre la tienda </h4>
+                            <h4 class="footer-title">Infomacion sobre la tienda Mainbo </h4>
                             <ul>
-                                <li><a href="about.html"><span></span>Sobre nosotros</a></li>
-                                <li><a href="blog-grid.html"><span></span>Informacion de Mainboo</a></li>
+                                <li><a href="about.html"><span></span>Ubicación: Pasaje tapia hambiente # 10</a></li>
+                                <li><a href="blog-grid.html"><span></span>Contactos </a></li>
                             </ul>
                         </div>
                     </div>
                     
                     <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-duration="1.4s" data-wow-delay=".4s">
                         <div class="footer__item newsletter">
-                            <h4 class="footer-title">Conocernos</h4>
+                            <h4 class="footer-title">Para saber sobre nuestras promociones</h4>
                             <div class="subscribe">
-                                <input type="email" placeholder="Recibiras notificaciones de nuestras promociones">
+                                <input type="email" placeholder="Dejanos tu correo">
                                 <button><i class="fa-solid fa-paper-plane"></i></button>
                             </div>
                             <div class="social-icon mt-40">
@@ -1081,7 +1083,7 @@
                 <a href="index.html" class="logo d-block">
                     <img src="assets-landing/images/logo/logo.svg" alt="logo">
                 </a>
-                <p>&copy; Leonel.inc <a href="#0" class="primary-hover">Mainbo</a>2023</p>
+                <p>&copy; Desarrollado por: <a href="#0" class="primary-hover"></a>Leonel Arizaga</p>
                 <a href="#0" class="payment d-block image">
                     <img src="assets-landing/images/icon/payment.png" alt="icon">
                 </a>
