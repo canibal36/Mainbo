@@ -5,19 +5,6 @@ use App\Http\Controllers\Auth\AuthController;
 use App\Http\Controllers\DashboardController;
 use App\Http\Controllers\ProductoController;
 
-
-
-/*
-|--------------------------------------------------------------------------
-| Web Routes
-|--------------------------------------------------------------------------
-|
-| Here is where you can register web routes for your application. These
-| routes are loaded by the RouteServiceProvider and all of them will
-| be assigned to the "web" middleware group. Make something great!
-|
-*/
-
 Route::get('/', function () {
     return view('welcome');
 });
@@ -29,5 +16,14 @@ Route::get('logout', [AuthController::class, 'logout'])->name('logout');
 
 
 Route::middleware(['auth'])->group(function () {
-    Route::get('dashboard', [DashboardController::class, 'index'])->name('dashboard');
+    Route::get('dashboard', [DashboardController::class, 'index'])->name('backend.dashboard.index');
+
+    Route::group(['prefix' => 'productos'], function () {
+        Route::get('/', [ProductoController::class, 'index'])->name('backend.productos.index');
+        Route::get('/create', [ProductoController::class, 'create'])->name('backend.productos.create');
+        Route::post('store', [ProductoController::class, 'store'])->name('backend.productos.store');
+        Route::get('edit/{id}', [ProductoController::class, 'edit'])->name('backend.productos.edit');
+        Route::post('update', [ProductoController::class, 'update'])->name('backend.productos.update');
+        Route::post('delete', [ProductoController::class, 'delete'])->name('backend.productos.delete');
+    });
 });
