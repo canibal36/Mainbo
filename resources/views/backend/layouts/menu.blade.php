@@ -50,7 +50,7 @@
                 </a>
                 <ul class="sidebar-submenu">
                     <li>
-                        <a href="">Lista</a>
+                        <a href="{{ route('backend.productos.index') }}">Lista</a>
                     </li>
                     <li>
                         <a href="">Crear</a>

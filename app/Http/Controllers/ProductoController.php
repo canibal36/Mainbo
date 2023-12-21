@@ -3,6 +3,8 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use App\Models\Producto;
+
 
 class ProductoController extends Controller
 {
@@ -11,7 +13,8 @@ class ProductoController extends Controller
      */
     public function index()
     {
-        //
+        $productos = Producto::all();
+        return view('backend.productos.index', compact('productos'));
     }
 
     /**
@@ -19,7 +22,7 @@ class ProductoController extends Controller
      */
     public function create()
     {
-        //
+        return view('backend.productos.create');
     }
 
     /**
@@ -27,7 +30,8 @@ class ProductoController extends Controller
      */
     public function store(Request $request)
     {
-        //
+        Producto::create($request->all());
+        return redirect()->route('backend.productos.index')->with('success', 'Asociado creado correctamente.');
     }
 
     /**

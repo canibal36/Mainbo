@@ -5,12 +5,12 @@
             <div class="text-center ltr:md:text-start rtl:md:text-right text-sm">
                 COPYRIGHT ©
                 <span id="thisYear"></span>
-                DashCode, All rights Reserved
+                DashCode, Todos los Derechos Reservados
             </div>
             <div class="ltr:md:text-right rtl:md:text-end text-center text-sm">
-                Hand-crafted &amp; Made by
+                Mainbo &amp; by YNV
                 <a href="http://mainbo.store" target="_blank" class="text-primary-500 font-semibold">
-                    Codeshaper
+                    Mainbo
                 </a>
             </div>
         </div>
