@@ -23,7 +23,6 @@
     <!-- Style css -->
     <link rel="stylesheet" href="assets-landing/css/style.css">
     
-    <link" href">;
 </head>
 
 <body>
