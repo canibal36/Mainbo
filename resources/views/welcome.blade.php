@@ -35,7 +35,7 @@
                     <img src="assets-landing/images/logo/logo.svg" alt="logo__image">
                 </a>
                 <div class="search__wrp">
-                    <input placeholder="Search for" aria-label="Search">
+                    <input placeholder="Buscar" aria-label="Search">
                     <button><i class="fa-solid fa-search"></i></button>
                 </div>
                 <div class="account__wrap">
@@ -70,17 +70,9 @@
                         </div>
                             <select name="flag">
                                 <option value="0">
-                                    EEUU
+                                    Bol
                                 </option>
-                                <option value="1">
-                                    Canada
-                                </option>
-                                <option value="2">
-                                    Australia
-                                </option>
-                                <option value="3">
-                                    Germany
-                                </option>
+    
                             </select>
                     </div>
                 </div>
@@ -134,8 +126,8 @@
                                     Somos <span class="primary-color">Mainbo</span></h1>
                                 <p class="mt-40" data-animation="fadeInUp" data-delay="1.5s">Este es el catalogo de ropa mas completo y detallado que podrias encontrar <br> Disfrutalo...</p>
                                 <div class="banner-two__info mt-30" data-animation="fadeInUp" data-delay="1.7s">
-                                    <span class="mb-10">Oferta especial</span>
-                                    <h3>Bs 250.00</h3>
+                                    <span class="mb-10">Nuestra tienda fisica esta en:</span>
+                                    <h3>El pasaje Tapia ambiente # 10</h3>
                                 </div>
                                 <div class="btn-wrp mt-65">
                                     <a href="shop.html" class="btn-one" data-animation="fadeInUp" data-delay="1.8s"><span>Proceso de compra</span></a>
@@ -153,8 +145,8 @@
                                     Somos <span class="primary-color">Mainbo</span></h1>
                                 <p class="mt-40" data-animation="fadeInUp" data-delay="1.5s">Este es el catalogo de ropa mas completo y detallado que podrias encontrar <br> Disfrutalo...</p>
                                 <div class="banner-two__info mt-30" data-animation="fadeInUp" data-delay="1.7s">
-                                    <span class="mb-10">Oferta especial</span>
-                                    <h3>Bs 250.00</h3>
+                                    <span class="mb-10">Nuestra tienda fisica esta en:</span>
+                                    <h3>El pasaje Tapia ambiente # 10</h3>
                                 </div>
                                 <div class="btn-wrp mt-65">
                                     <a href="shop.html" class="btn-one" data-animation="fadeInUp" data-delay="1.8s"><span>Proceso de compra</span></a>
@@ -172,8 +164,8 @@
                                     Somos <span class="primary-color">Mainbo</span></h1>
                                 <p class="mt-40" data-animation="fadeInUp" data-delay="1.5s">Este es el catalogo de ropa mas completo y detallado que podrias encontrar <br> Disfrutalo...</p>
                                 <div class="banner-two__info mt-30" data-animation="fadeInUp" data-delay="1.7s">
-                                    <span class="mb-10">Oferta especial</span>
-                                    <h3>Bs 250.00</h3>
+                                    <span class="mb-10">Nuestra tienda fisica esta en:</span>
+                                    <h3>El pasaje Tapia ambiente # 10</h3>
                                 </div>
                                 <div class="btn-wrp mt-65">
                                     <a href="shop.html" class="btn-one" data-animation="fadeInUp" data-delay="1.8s"><span>Proceso de compra</span></a>
@@ -919,71 +911,71 @@
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
                         <div class="gallery__item">
-                            <div class="off-tag">50% <br>
-                                off</div>
+                            <div class="off-tag">Tik<br>
+                                Tok</div>
                             <div class="gallery__image image">
                                 <img src="assets-landing/images/gallery/gallery-image1.jpg" alt="image">
                             </div>
                             <div class="gallery__content">
-                                <h3 class="mb-10"><a href="shop-2.html">Productos en descuento</a></h3>
-                                <p>Best E liquids from our huge collection</p>
-                                <a href="shop-2.html" class="btn-two mt-25"><span>Shop Now</span></a>
+                                <h3 class="mb-10"><a href="shop-2.html">Titulo Del video</a></h3>
+                                <p>Descripción del video </p>
+                                <a href="shop-2.html" class="btn-two mt-25"><span>Ver video</span></a>
                             </div>
                         </div>
                     </div>
                     <div class="swiper-slide">
                         <div class="gallery__item">
-                            <div class="off-tag">50% <br>
-                                off</div>
+                            <div class="off-tag">Tik<br>
+                                Tok</div>
                             <div class="gallery__image image">
                                 <img src="assets-landing/images/gallery/gallery-image2.jpg" alt="image">
                             </div>
                             <div class="gallery__content">
-                                <h3 class="mb-10"><a href="shop-2.html">Productos en descuento</a></h3>
-                                <p>Best E liquids from our huge collection</p>
-                                <a href="shop-2.html" class="btn-two mt-25"><span>Shop Now</span></a>
+                                <h3 class="mb-10"><a href="shop-2.html">Titulo Del video</a></h3>
+                                <p>Descripción del video </p>
+                                <a href="shop-2.html" class="btn-two mt-25"><span>Ver video</span></a>
                             </div>
                         </div>
                     </div>
                     <div class="swiper-slide">
                         <div class="gallery__item">
-                            <div class="off-tag">50% <br>
-                                off</div>
+                            <div class="off-tag">Tik<br>
+                                Tok</div>
                             <div class="gallery__image image">
                                 <img src="assets-landing/images/gallery/gallery-image3.jpg" alt="image">
                             </div>
                             <div class="gallery__content">
-                                <h3 class="mb-10"><a href="shop-2.html">Productos en descuento</a></h3>
-                                <p>Best E liquids from our huge collection</p>
-                                <a href="shop-2.html" class="btn-two mt-25"><span>Shop Now</span></a>
+                                <h3 class="mb-10"><a href="shop-2.html">Titulo Del video</a></h3>
+                                <p>Descripción del video </p>
+                                <a href="shop-2.html" class="btn-two mt-25"><span>Ver video</span></a>
                             </div>
                         </div>
                     </div>
                     <div class="swiper-slide">
                         <div class="gallery__item">
-                            <div class="off-tag">50% <br>
-                                off</div>
+                            <div class="off-tag">Tik<br>
+                                Tok</div>
                             <div class="gallery__image image">
                                 <img src="assets-landing/images/gallery/gallery-image4.jpg" alt="image">
                             </div>
                             <div class="gallery__content">
-                                <h3 class="mb-10"><a href="shop-2.html">Productos en descuento</a></h3>
-                                <p>Best E liquids from our huge collection</p>
-                                <a href="shop-2.html" class="btn-two mt-25"><span>Shop Now</span></a>
+                                <h3 class="mb-10"><a href="shop-2.html">Titulo Del video</a></h3>
+                                <p>Descripción del video </p>
+                                <a href="shop-2.html" class="btn-two mt-25"><span>Ver video</span></a>
                             </div>
                         </div>
                     </div>
                     <div class="swiper-slide">
                         <div class="gallery__item">
-                            <div class="off-tag">50% <br>
-                                off</div>
+                            <div class="off-tag">Tik<br>
+                                Tok</div>
                             <div class="gallery__image image">
                                 <img src="assets-landing/images/gallery/gallery-image5.jpg" alt="image">
                             </div>
                             <div class="gallery__content">
-                                <h3 class="mb-10"><a href="shop-2.html">Productos en descuento</a></h3>
-                                <p>Best E liquids from our huge collection</p>
-                                <a href="shop-2.html" class="btn-two mt-25"><span>Shop Now</span></a>
+                                <h3 class="mb-10"><a href="shop-2.html">Titulo Del video</a></h3>
+                                <p>Descripción del video </p>
+                                <a href="shop-2.html" class="btn-two mt-25"><span>Ver video</span></a>
                             </div>
                         </div>
                     </div>
