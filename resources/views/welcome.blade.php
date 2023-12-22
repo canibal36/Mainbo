@@ -126,7 +126,7 @@
                                 <p class="mt-40" data-animation="fadeInUp" data-delay="1.5s">Este es el catalogo de ropa mas completo y detallado que podrias encontrar <br> Disfrutalo...</p>
                                 <div class="banner-two__info mt-30" data-animation="fadeInUp" data-delay="1.7s">
                                     <span class="mb-10">Nuestra tienda fisica esta en:</span>
-                                    <h3>El pasaje Tapia ambiente # 10</h3>
+                                    <h3>El pasaje Tapia ambientes # 48 49 50</h3>
                                 </div>
                                 <div class="btn-wrp mt-65">
                                     <a href="shop.html" class="btn-one" data-animation="fadeInUp" data-delay="1.8s"><span>Proceso de compra</span></a>
@@ -145,7 +145,7 @@
                                 <p class="mt-40" data-animation="fadeInUp" data-delay="1.5s">Este es el catalogo de ropa mas completo y detallado que podrias encontrar <br> Disfrutalo...</p>
                                 <div class="banner-two__info mt-30" data-animation="fadeInUp" data-delay="1.7s">
                                     <span class="mb-10">Nuestra tienda fisica esta en:</span>
-                                    <h3>El pasaje Tapia ambiente # 10</h3>
+                                    <h3>El pasaje Tapia ambientes # 48 49 50</h3>
                                 </div>
                                 <div class="btn-wrp mt-65">
                                     <a href="shop.html" class="btn-one" data-animation="fadeInUp" data-delay="1.8s"><span>Proceso de compra</span></a>
@@ -164,7 +164,7 @@
                                 <p class="mt-40" data-animation="fadeInUp" data-delay="1.5s">Este es el catalogo de ropa mas completo y detallado que podrias encontrar <br> Disfrutalo...</p>
                                 <div class="banner-two__info mt-30" data-animation="fadeInUp" data-delay="1.7s">
                                     <span class="mb-10">Nuestra tienda fisica esta en:</span>
-                                    <h3>El pasaje Tapia ambiente # 10</h3>
+                                    <h3>El pasaje Tapia ambientes # 48 49 50</h3>
                                 </div>
                                 <div class="btn-wrp mt-65">
                                     <a href="shop.html" class="btn-one" data-animation="fadeInUp" data-delay="1.8s"><span>Proceso de compra</span></a>
