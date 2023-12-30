@@ -1,7 +1,7 @@
 @extends('backend.layouts.main')
 
 @section('head')
-<title>Iglesias</title>
+<title>Productos</title>
 @endsection
 
 @section('content')
@@ -33,7 +33,7 @@
                     <div class="flex flex-wrap ">
 
 
-                        <a href="{{ route('backend.productos.create') }}" class="btn inline-flex justify-center btn-dark dark:bg-slate-700 dark:text-slate-300 m-1">
+                        <a href="{{ route('productos.create') }}" class="btn inline-flex justify-center btn-dark dark:bg-slate-700 dark:text-slate-300 m-1">
                             <span class="flex items-center">
                                 <iconify-icon class="text-xl ltr:mr-2 rtl:ml-2" icon="ph:plus-bold"></iconify-icon>
                                 <span>Crear Producto</span>

@@ -326,8 +326,8 @@
                             <div class="product__item bor">
                                 <a href="#0" class="wishlist"><i class="fa-regular fa-heart"></i></a>
                                 <a href="shop-single.html" class="product__image pt-20 d-block">
-                                    <img class="font-image" src="/images/{{ $product->path_imagen }}" alt="image">
-                                    <img class="back-image" src="/images/{{ $product->path_imagen }}" alt="image">
+                                    <img class="product-image font-image" src="/images/{{ $product->path_imagen }}" alt="image" style="max-width: 300px; max-height: 200px; object-fit: cover;">
+                                    <img class="product-image back-image" src="/images/{{ $product->path_imagen }}" alt="image" style="max-width: 300px; max-height: 200px; object-fit: cover;">
                                 </a>
                                 <div class="product__content">
                                     <h4 class="mb-15"><a class="primary-hover" href="shop-single.html">{{ $product->nombre }}</a></h4>

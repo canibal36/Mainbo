@@ -1,7 +1,7 @@
 @extends('backend.layouts.main')
 
 @section('head')
-<title>Crear - Productos</title>
+<title>Actualizar - Productos</title>
 @endsection
 
 @section('content')
@@ -52,42 +52,45 @@
                                 </div>
                             </header>
                             <div class="card-text h-full">
-                                <form action="{{ route('productos.store') }}" method="POST" enctype="multipart/form-data" class="space-y-4" id="typeValidation">
-
+                                <form action="{{ route('productos.update',$producto->id) }}" method="POST" enctype="multipart/form-data">
                                     @csrf
+                                    @method('PUT')
                                     <div class="grid md:grid-cols-2 gap-7">
                                         <div class="input-area">
                                             <label for="nombre" class="form-label">Nombre</label>
-                                            <input id="nombre" name="nombre" type="text" class="form-control" placeholder="Nombre" autofocus>
+                                            <input id="nombre" name="nombre" type="text" class="form-control" placeholder="Nombre" value="{{ $producto->nombre }}" autofocus>
                                         </div>
                                         <div class="input-area">
                                             <label for="descripcion" class="form-label">Descripción</label>
-                                            <textarea id="descripcion" name="descripcion" class="form-control" placeholder="Descripción del producto"></textarea>
+                                            <textarea id="descripcion" name="descripcion" class="form-control" placeholder="Descripción del producto">{{ $producto->descripcion }}</textarea>
                                         </div>
                                         <div class="input-area">
                                             <label for="categoria" class="form-label">Categoría</label>
-                                            <input id="categoria" name="categoria" type="text" class="form-control" placeholder="Categoría del producto">
+                                            <input id="categoria" name="categoria" type="text" class="form-control" placeholder="Categoría del producto" value="{{ $producto->categoria }}">
                                         </div>
                                         <div class="input-area">
                                             <label for="precio" class="form-label">Precio</label>
-                                            <input id="precio" name="precio" type="text" class="form-control" placeholder="Precio del producto">
+                                            <input id="precio" name="precio" type="text" class="form-control" placeholder="Precio del producto" value="{{ $producto->precio }}">
                                         </div>
                                         <div class="input-area">
                                             <label for="stock" class="form-label">Stock</label>
-                                            <input id="stock" name="stock" type="text" class="form-control" placeholder="Cantidad disponible en el inventario">
+                                            <input id="stock" name="stock" type="text" class="form-control" placeholder="Cantidad disponible en el inventario" value="{{ $producto->stock }}">
                                         </div>
                                         <div class="input-area">
                                             <label for="proveedor" class="form-label">Proveedor</label>
-                                            <input id="proveedor" name="proveedor" type="text" class="form-control" placeholder="Nombre del proveedor del producto">
+                                            <input id="proveedor" name="proveedor" type="text" class="form-control" placeholder="Nombre del proveedor del producto" value="{{ $producto->proveedor }}">
                                         </div>
-                                        <div class="col-xs-12 col-sm-12 col-md-12">
+                                        <div class="input-area">
                                             <div class="form-group">
                                                 <strong>Image:</strong>
-                                                <input type="file" name="path_imagen" class="form-control" placeholder="image">
+                                                <input type="file" name="path_imagen" class="form-control" placeholder="image" value="{{ $producto->path_imagen }}">
                                             </div>
                                         </div>
+                                        <div class="input-area">
+                                            <img src="/images/{{ $producto->path_imagen }}" class="img-thumbnail" width="50%" style="border-radius: 20px;">
+                                        </div>
                                     </div>
-                                    <button class="btn flex justify-center btn-dark">Enviar</button>
+                                    <button class="btn flex justify-center btn-dark">Actualizar</button>
                                 </form>
 
                             </div>

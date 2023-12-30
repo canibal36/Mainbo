@@ -16,12 +16,5 @@ Route::get('/', [LandingController::class, 'index'])->name('backend.productos.in
 Route::middleware(['auth'])->group(function () {
     Route::get('dashboard', [DashboardController::class, 'index'])->name('backend.dashboard.index');
 
-    Route::group(['prefix' => 'productos'], function () {
-        Route::get('/', [ProductoController::class, 'index'])->name('backend.productos.index');
-        Route::get('/create', [ProductoController::class, 'create'])->name('backend.productos.create');
-        Route::post('store', [ProductoController::class, 'store'])->name('backend.productos.store');
-        Route::get('edit/{id}', [ProductoController::class, 'edit'])->name('backend.productos.edit');
-        Route::post('update', [ProductoController::class, 'update'])->name('backend.productos.update');
-        Route::post('delete', [ProductoController::class, 'delete'])->name('backend.productos.delete');
-    });
+    Route::resource('productos', ProductoController::class);
 });

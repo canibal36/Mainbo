@@ -12,7 +12,7 @@ class LandingController extends Controller
      */
     public function index()
     {
-        $products = Producto::take(50)->get();
+        $products = Producto::take(9)->get();
 
         return view('frontend.landing.index', compact('products'));
     }

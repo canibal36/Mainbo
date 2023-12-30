@@ -46,10 +46,10 @@
                 </a>
                 <ul class="sidebar-submenu">
                     <li>
-                        <a href="{{ route('backend.productos.index') }}">Lista</a>
+                        <a href="{{ route('productos.index') }}">Lista</a>
                     </li>
                     <li>
-                        <a href="{{ route('backend.productos.create') }}">Crear</a>
+                        <a href="{{ route('productos.create') }}">Crear</a>
                     </li>
                 </ul>
             </li>

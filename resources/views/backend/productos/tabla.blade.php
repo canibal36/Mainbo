@@ -70,44 +70,38 @@
                             <ul class=" dropdown-menu min-w-[120px] absolute text-sm text-slate-700 dark:text-white hidden bg-white dark:bg-slate-700
                                   shadow z-[2] float-left overflow-hidden list-none text-left rounded-lg mt-1 m-0 bg-clip-padding border-none">
                                 <li>
-                                    <a href="invoive-add.html" class=" hover:bg-slate-900 hover:text-white dark:hover:bg-slate-600 dark:hover:bg-opacity-50 w-full border-b
-                                      border-b-gray-500 border-opacity-10 px-4 py-2 text-sm last:mb-0 cursor-pointer first:rounded-t flex space-x-2
-                                      items-center rtl:space-x-reverse ">
-                                        <span class="text-base">
-                                            <iconify-icon icon="heroicons:paper-airplane"></iconify-icon>
-                                        </span>
-                                        <span class="text-sm">Send</span>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="invoive-preview.html" class=" hover:bg-slate-900 hover:text-white dark:hover:bg-slate-600 dark:hover:bg-opacity-50 w-full border-b
+                                    <a href="{{ route('productos.show',$producto->id) }}" class=" hover:bg-slate-900 hover:text-white dark:hover:bg-slate-600 dark:hover:bg-opacity-50 w-full border-b
                                       border-b-gray-500 border-opacity-10 px-4 py-2 text-sm last:mb-0 cursor-pointer flex space-x-2 items-center
                                       rtl:space-x-reverse ">
                                         <span class="text-base">
                                             <iconify-icon icon="heroicons:eye"></iconify-icon>
                                         </span>
-                                        <span class="text-sm">View</span>
+                                        <span class="text-sm">Ver</span>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="invoive-preview.html" class=" hover:bg-slate-900 hover:text-white dark:hover:bg-slate-600 dark:hover:bg-opacity-50 w-full border-b
+                                    <a href="{{ route('productos.edit',$producto->id) }}" class=" hover:bg-slate-900 hover:text-white dark:hover:bg-slate-600 dark:hover:bg-opacity-50 w-full border-b
                                       border-b-gray-500 border-opacity-10 px-4 py-2 text-sm last:mb-0 cursor-pointer flex space-x-2 items-center
                                       rtl:space-x-reverse ">
                                         <span class="text-base">
                                             <iconify-icon icon="heroicons:pencil-square"></iconify-icon>
                                         </span>
-                                        <span class="text-sm">Edit</span>
+                                        <span class="text-sm">Editar</span>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="#" class=" bg-danger-500 text-danger-500 bg-opacity-30 hover:bg-opacity-100 hover:text-white w-full border-b
-                                      border-b-gray-500 border-opacity-10 px-4 py-2 text-sm last:mb-0 cursor-pointer last:rounded-b flex space-x-2 items-center
-                                      rtl:space-x-reverse ">
-                                        <span class="text-base">
-                                            <iconify-icon icon="heroicons:trash"></iconify-icon>
-                                        </span>
-                                        <span class="text-sm">Delete</span>
-                                    </a>
+                                    <form action="{{ route('productos.destroy',$producto->id) }}" method="POST">
+                                        @csrf
+                                        @method('DELETE')
+                                        <button type="submit" class="bg-danger-500 text-danger-500 bg-opacity-30 hover:bg-opacity-100 hover:text-white w-full border-b
+                                        border-b-gray-500 border-opacity-10 px-4 py-2 text-sm last:mb-0 cursor-pointer last:rounded-b flex space-x-2 items-center
+                                        rtl:space-x-reverse ">
+                                            <span class="text-base">
+                                                <iconify-icon icon="heroicons:trash"></iconify-icon>
+                                            </span>
+                                            <span class="text-sm">Eliminar</span>
+                                        </button>
+                                    </form>
                                 </li>
                             </ul>
                         </div>
