@@ -11,7 +11,16 @@
         <div class="transition-all duration-150 container-fluid" id="page_layout">
             <div id="content_layout">
 
-
+                @if ($errors->any())
+                <div class="alert alert-danger">
+                    <strong>Whoops!</strong> There were some problems with your input.<br><br>
+                    <ul>
+                        @foreach ($errors->all() as $error)
+                        <li>{{ $error }}</li>
+                        @endforeach
+                    </ul>
+                </div>
+                @endif
 
 
                 <!-- BEGIN: Breadcrumb -->
@@ -43,7 +52,8 @@
                                 </div>
                             </header>
                             <div class="card-text h-full">
-                                <form class="space-y-4" id="typeValidation" method="POST" action="{{ route('backend.productos.store') }}">
+                                <form action="{{ route('backend.productos.store') }}" method="POST" enctype="multipart/form-data" class="space-y-4" id="typeValidation">
+
                                     @csrf
                                     <div class="grid md:grid-cols-2 gap-7">
                                         <div class="input-area">
@@ -69,6 +79,12 @@
                                         <div class="input-area">
                                             <label for="proveedor" class="form-label">Proveedor</label>
                                             <input id="proveedor" name="proveedor" type="text" class="form-control" placeholder="Nombre del proveedor del producto">
+                                        </div>
+                                        <div class="col-xs-12 col-sm-12 col-md-12">
+                                            <div class="form-group">
+                                                <strong>Image:</strong>
+                                                <input type="file" name="path_imagen" class="form-control" placeholder="image">
+                                            </div>
                                         </div>
                                     </div>
                                     <button class="btn flex justify-center btn-dark">Enviar</button>

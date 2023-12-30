@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Models\Producto;
+use Illuminate\Http\RedirectResponse;
 
 
 class ProductoController extends Controller
@@ -28,10 +29,31 @@ class ProductoController extends Controller
     /**
      * Store a newly created resource in storage.
      */
-    public function store(Request $request)
+    public function store(Request $request): RedirectResponse
     {
-        Producto::create($request->all());
-        return redirect()->route('backend.productos.index')->with('success', 'Asociado creado correctamente.');
+        $request->validate([
+            'nombre' => 'required',
+            'descripcion' => 'required',
+            'categoria' => 'required',
+            'precio' => 'required',
+            'stock' => 'required',
+            'proveedor' => 'required',
+            'path_imagen' => 'required|image|mimes:jpeg,png,jpg,gif,svg|max:2048',
+        ]);
+
+        $input = $request->all();
+
+        if ($image = $request->file('path_imagen')) {
+            $destinationPath = 'images/';
+            $profileImage = date('YmdHis') . "." . $image->getClientOriginalExtension();
+            $image->move($destinationPath, $profileImage);
+            $input['path_imagen'] = "$profileImage";
+        }
+
+        Producto::create($input);
+
+        return redirect()->route('backend.productos.index')
+            ->with('success', 'Product created successfully.');
     }
 
     /**

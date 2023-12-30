@@ -24,6 +24,9 @@
                 Proveedor
             </th>
             <th scope="col" class=" table-th ">
+                Imagen
+            </th>
+            <th scope="col" class=" table-th ">
                 Acción
             </th>
 
@@ -53,6 +56,9 @@
             </td>
             <td class="table-td ">
                 {{ $producto->proveedor }}
+            </td>
+            <td class="table-td ">
+                <img src="/images/{{ $producto->path_imagen }}" width="100px">
             </td>
             <td class="table-td ">
                 <div>
