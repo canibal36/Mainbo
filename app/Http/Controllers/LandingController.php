@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use App\Models\Producto;
 
 class LandingController extends Controller
 {
@@ -11,7 +12,9 @@ class LandingController extends Controller
      */
     public function index()
     {
-        return view('frontend.landing.index');
+        $products = Producto::take(9)->get();
+
+        return view('frontend.landing.index', compact('products'));
     }
 
     /**

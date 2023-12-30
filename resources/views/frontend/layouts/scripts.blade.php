@@ -1,0 +1,11 @@
+   <script src="{{ asset('assets-landing/js/jquery-3.7.1.min.js') }}"></script>
+   <script src="{{ asset('assets-landing/js/bootstrap.min.js') }}"></script>
+   <script src="{{ asset('assets-landing/js/swiper-bundle.min.js') }}"></script>
+   <script src="{{ asset('assets-landing/js/jquery.counterup.min.js') }}"></script>
+   <script src="{{ asset('assets-landing/js/wow.min.js') }}"></script>
+   <script src="{{ asset('assets-landing/js/magnific-popup.min.js') }}"></script>
+   <script src="{{ asset('assets-landing/js/nice-select.min.js') }}"></script>
+   <script src="{{ asset('assets-landing/js/pace.min.js') }}"></script>
+   <script src="{{ asset('assets-landing/js/isotope.pkgd.min.js') }}"></script>
+   <script src="{{ asset('assets-landing/js/jquery.waypoints.js') }}"></script>
+   <script src="{{ asset('assets-landing/js/script.js') }}"></script>

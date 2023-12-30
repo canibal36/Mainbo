@@ -12,9 +12,6 @@
         <div class="transition-all duration-150 container-fluid" id="page_layout">
             <div id="content_layout">
                 <div class=" md:flex justify-between items-center">
-
-
-
                     <!-- BEGIN: Breadcrumb -->
                     <div class="mb-5">
                         <ul class="m-0 p-0 list-none">

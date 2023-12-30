@@ -7,12 +7,6 @@
                 <span id="thisYear"></span>
                 DashCode, Todos los Derechos Reservados
             </div>
-            <div class="ltr:md:text-right rtl:md:text-end text-center text-sm">
-                Mainbo &amp; by YNV
-                <a href="http://mainbo.store" target="_blank" class="text-primary-500 font-semibold">
-                    Mainbo
-                </a>
-            </div>
         </div>
     </div>
 </footer>
