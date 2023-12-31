@@ -7,7 +7,9 @@
 </head>
 
 <body>
+    @include('frontend.layouts.header')
     @yield('content')
+    @include('frontend.layouts.footer')
     @include('backend.auth.layouts.scripts')
 </body>
 
