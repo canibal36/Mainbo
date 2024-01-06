@@ -116,64 +116,64 @@
                         <div class="swiper-slide">
                             <div class="category__item category-two__item text-center">
                                 <a href="shop.html" class="category__image d-block">
-                                    <img src="assets-landing/images/category/category-image1.png" alt="image">
+                                    <img src="assets-landing/images/category/category-image1.png" alt="image" style="width: 100px">
                                     <div class="category-icon">
-                                        <img src="assets-landing/images/category/category-icon1.png" alt="icon">
+                                        <img src="assets-landing/images/category/category-icon1.png" alt="icon" style="width: 100px">
                                     </div>
                                 </a>
-                                <h4 class="mt-30"><a href="shop.html">Camisas para hombre</a></h4>
+                                <h4 class="mt-30"><a href="shop.html">Poleras</a></h4>
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="category__item category-two__item text-center">
                                 <a href="shop.html" class="category__image d-block">
-                                    <img src="assets-landing/images/category/category-image2.png" alt="image">
+                                    <img src="assets-landing/images/category/category-image2.png" alt="image" style="width: 100px">
                                     <div class="category-icon">
-                                        <img src="assets-landing/images/category/category-icon2.png" alt="icon">
+                                        <img src="assets-landing/images/category/category-icon2.png" alt="icon" style="width: 100px">
                                     </div>
                                 </a>
-                                <h4 class="mt-30"><a href="shop.html">Camisas para mujer</a></h4>
+                                <h4 class="mt-30"><a href="shop.html">Canguros</a></h4>
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="category__item category-two__item text-center">
                                 <a href="shop.html" class="category__image d-block">
-                                    <img src="assets-landing/images/category/category-image3.png" alt="image">
+                                    <img src="assets-landing/images/category/category-image3.png" alt="image" style="width: 100px">
                                     <div class="category-icon">
-                                        <img src="assets-landing/images/category/category-icon3.png" alt="icon">
+                                        <img src="assets-landing/images/category/category-icon3.png" alt="icon" style="width: 100px">
                                     </div>
                                 </a>
-                                <h4 class="mt-30"><a href="shop.html">Blusas</a></h4>
+                                <h4 class="mt-30"><a href="shop.html">Gorras</a></h4>
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="category__item category-two__item text-center">
                                 <a href="shop.html" class="category__image d-block">
-                                    <img src="assets-landing/images/category/category-image4.png" alt="image">
+                                    <img src="assets-landing/images/category/category-image4.png" alt="image" style="width: 100px">
                                     <div class="category-icon">
-                                        <img src="assets-landing/images/category/category-icon4.png" alt="icon">
+                                        <img src="assets-landing/images/category/category-icon4.png" alt="icon" style="width: 100px">
                                     </div>
                                 </a>
-                                <h4 class="mt-30"><a href="shop.html">Pantalones para hombre</a></h4>
+                                <h4 class="mt-30"><a href="shop.html">Pantalones cortos</a></h4>
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="category__item category-two__item text-center">
                                 <a href="shop.html" class="category__image d-block">
-                                    <img src="assets-landing/images/category/category-image5.png" alt="image">
+                                    <img src="assets-landing/images/category/category-image5.png" alt="image" style="width: 100px">
                                     <div class="category-icon">
-                                        <img src="assets-landing/images/category/category-icon5.png" alt="icon">
+                                        <img src="assets-landing/images/category/category-icon5.png" alt="icon" style="width: 100px">
                                     </div>
                                 </a>
-                                <h4 class="mt-30"><a href="shop.html">Pantalones para mujer</a></h4>
+                                <h4 class="mt-30"><a href="shop.html">Pantalones largos</a></h4> 
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="category__item category-two__item text-center">
                                 <a href="shop.html" class="category__image d-block">
-                                    <img src="assets-landing/images/category/category-image6.png" alt="image">
+                                    <img src="assets-landing/images/category/category-image6.png" alt="image" style="width: 100px">
                                     <div class="category-icon">
-                                        <img src="assets-landing/images/category/category-icon6.png" alt="icon">
+                                        <img src="assets-landing/images/category/category-icon6.png" alt="icon" style="width: 100px">
                                     </div>
                                 </a>
                                 <h4 class="mt-30"><a href="shop.html">Bestidos</a></h4>

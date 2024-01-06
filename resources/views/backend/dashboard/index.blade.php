@@ -24,13 +24,13 @@
                                     <button class="btn leading-0 inline-flex justify-center bg-white text-slate-700 dark:bg-slate-800 dark:text-slate-300 !font-normal">
                                         <span class="flex items-center">
                                             <iconify-icon class="text-xl ltr:mr-2 rtl:ml-2 font-light" icon="heroicons-outline:calendar"></iconify-icon>
-                                            <span>Weekly</span>
+                                            <span>Semanalmente</span>
                                         </span>
                                     </button>
                                     <button class="btn leading-0 inline-flex justify-center bg-white text-slate-700 dark:bg-slate-800 dark:text-slate-300 !font-normal">
                                         <span class="flex items-center">
                                             <iconify-icon class="text-xl ltr:mr-2 rtl:ml-2 font-light" icon="heroicons-outline:filter"></iconify-icon>
-                                            <span>Select Date</span>
+                                            <span>Seleccione fecha</span>
                                         </span>
                                     </button>
                                 </div>
@@ -39,16 +39,16 @@
                                 <div class="2xl:col-span-3 lg:col-span-4 col-span-12">
                                     <div class="bg-no-repeat bg-cover bg-center p-4 rounded-[6px] relative" style="background-image: url(assets-dashboard/images/all-img/widget-bg-1.png)">
                                         <div class="max-w-[180px]">
-                                            <div class="text-xl font-medium text-slate-900 mb-2">
-                                                Upgrade your Dashcode
+                                            <div class="text-xl font-medium text-slate-900 mb-2">   
+                                                Actualice su código Dash
                                             </div>
                                             <p class="text-sm text-slate-800">
-                                                Pro plan for better results
+                                                Plan profesional para mejores resultados
                                             </p>
                                         </div>
                                         <div class="absolute top-1/2 -translate-y-1/2 ltr:right-6 rtl:left-6 mt-2 h-12 w-12 bg-white rounded-full text-xs font-medium
                             flex flex-col items-center justify-center">
-                                            Now
+                                            Ahora
                                         </div>
                                     </div>
                                 </div>
@@ -66,7 +66,7 @@
                                                     </div>
                                                     <div class="flex-1">
                                                         <div class="text-slate-800 dark:text-slate-300 text-sm mb-1 font-medium">
-                                                            Totel revenue
+                                                            Los ingresos totales
                                                         </div>
                                                         <div class="text-slate-900 dark:text-white text-lg font-medium">
                                                             3,564
@@ -82,7 +82,7 @@
                                                     </div>
                                                     <div class="flex-1">
                                                         <div class="text-slate-800 dark:text-slate-300 text-sm mb-1 font-medium">
-                                                            Products sold
+                                                            Productos vendidos
                                                         </div>
                                                         <div class="text-slate-900 dark:text-white text-lg font-medium">
                                                             564
@@ -97,9 +97,9 @@
                                                         <div id="wline3"></div>
                                                     </div>
                                                     <div class="flex-1">
-                                                        <div class="text-slate-800 dark:text-slate-300 text-sm mb-1 font-medium">
-                                                            Growth
-                                                        </div>
+                                                        <dv class="text-slate-800 dark:text-slate-300 text-sm mb-1 font-medium">
+                                                            Crecimiento
+                                                        </dv>
                                                         <div class="text-slate-900 dark:text-white text-lg font-medium">
                                                             +5.0%
                                                         </div>
@@ -125,7 +125,7 @@
                                 <div class="lg:col-span-4 col-span-12">
                                     <div class="card">
                                         <header class="card-header">
-                                            <h4 class="card-title">Overview</h4>
+                                            <h4 class="card-title">Descripción general</h4>
                                             <div>
                                                 <!-- BEGIN: Card Dropdown -->
                                                 <div class="relative">
@@ -167,7 +167,7 @@
                                 <div class="lg:col-span-8 col-span-12">
                                     <div class="card">
                                         <header class="card-header noborder">
-                                            <h4 class="card-title">All Company</h4>
+                                            <h4 class="card-title">Toda la empresa</h4>
                                             <div>
                                                 <!-- BEGIN: Card Dropdown -->
                                                 <div class="relative">
@@ -214,23 +214,23 @@
                                                                 <tr>
 
                                                                     <th scope="col" class=" table-th ">
-                                                                        Company
+                                                                        Compañía
                                                                     </th>
 
                                                                     <th scope="col" class=" table-th ">
-                                                                        Category
+                                                                        Categoria
                                                                     </th>
 
                                                                     <th scope="col" class=" table-th ">
-                                                                        Sales
+                                                                        Ventas
                                                                     </th>
 
                                                                     <th scope="col" class=" table-th ">
-                                                                        Views
+                                                                        Puntos de vista
                                                                     </th>
 
                                                                     <th scope="col" class=" table-th ">
-                                                                        revenue
+                                                                        Ganancia
                                                                     </th>
 
                                                                 </tr>
@@ -453,7 +453,7 @@
                                 <div class="lg:col-span-4 col-span-12">
                                     <div class="card ">
                                         <div class="card-header ">
-                                            <h4 class="card-title">Recent Activity</h4>
+                                            <h4 class="card-title">Actividad reciente</h4>
                                             <div>
                                                 <!-- BEGIN: Card Dropdown -->
                                                 <div class="relative">
@@ -469,17 +469,17 @@
                                                             <li>
                                                                 <a href="#" class="text-slate-600 dark:text-white block font-Inter font-normal px-4 py-2 hover:bg-slate-100 dark:hover:bg-slate-600
                         dark:hover:text-white">
-                                                                    Last 28 Days</a>
+                                                                    Últimos 28 días</a>
                                                             </li>
                                                             <li>
                                                                 <a href="#" class="text-slate-600 dark:text-white block font-Inter font-normal px-4 py-2 hover:bg-slate-100 dark:hover:bg-slate-600
                         dark:hover:text-white">
-                                                                    Last Month</a>
+                                                                    El mes pasado</a>
                                                             </li>
                                                             <li>
                                                                 <a href="#" class="text-slate-600 dark:text-white block font-Inter font-normal px-4 py-2 hover:bg-slate-100 dark:hover:bg-slate-600
                         dark:hover:text-white">
-                                                                    Last Year</a>
+                                                                    El año pasado</a>
                                                             </li>
                                                         </ul>
                                                     </div>
@@ -678,7 +678,7 @@
                                 <div class="lg:col-span-8 col-span-12">
                                     <div class="card">
                                         <div class="card-header">
-                                            <h4 class="card-title">Most Sales</h4>
+                                            <h4 class="card-title">Mayoría de ventas</h4>
                                             <div>
                                                 <!-- BEGIN: Card Dropdown -->
                                                 <div class="relative">
@@ -694,17 +694,17 @@
                                                             <li>
                                                                 <a href="#" class="text-slate-600 dark:text-white block font-Inter font-normal px-4 py-2 hover:bg-slate-100 dark:hover:bg-slate-600
                         dark:hover:text-white">
-                                                                    Last 28 Days</a>
+                                                                    últimos 28 días</a>
                                                             </li>
                                                             <li>
                                                                 <a href="#" class="text-slate-600 dark:text-white block font-Inter font-normal px-4 py-2 hover:bg-slate-100 dark:hover:bg-slate-600
                         dark:hover:text-white">
-                                                                    Last Month</a>
+                                                                    El mes pasado</a>
                                                             </li>
                                                             <li>
                                                                 <a href="#" class="text-slate-600 dark:text-white block font-Inter font-normal px-4 py-2 hover:bg-slate-100 dark:hover:bg-slate-600
                         dark:hover:text-white">
-                                                                    Last Year</a>
+                                                                    El año pasado</a>
                                                             </li>
                                                         </ul>
                                                     </div>
@@ -721,7 +721,7 @@
                                             <div class="md:flex items-center">
                                                 <div class="grow-0">
                                                     <h4 class="text-slate-600 dark:text-slate-200 text-sm font-normal mb-[6px]">
-                                                        Total earnings
+                                                        Ganancias Totales
                                                     </h4>
 
                                                     <div class="text-lg font-medium mb-[6px] dark:text-white text-slate-900">
@@ -730,7 +730,7 @@
 
 
                                                     <div class="text-xs font-light dark:text-slate-200">
-                                                        <span class="text-primary-500">+08%</span> From last month
+                                                        <span class="text-primary-500">+08%</span> Del mes pasado
                                                     </div>
                                                     <ul class="bg-slate-50 dark:bg-slate-900 rounded p-4 min-w-[184px] space-y-5 mt-4">
 
@@ -741,7 +741,7 @@
                                                                 <span class="inline-flex h-[6px] w-[6px] bg-primary-500 ring-opacity-25 rounded-full ring-4
                         bg-primary-500 ring-primary-500
                         "></span>
-                                                                <span>Nevada</span>
+                                                                <span>Sucre</span>
                                                             </span>
                                                             <span>$125k</span>
                                                         </li>
@@ -752,7 +752,7 @@
                                                                 <span class="inline-flex h-[6px] w-[6px] bg-primary-500 ring-opacity-25 rounded-full ring-4
                         bg-success-500 ring-success-500
                         "></span>
-                                                                <span>Colorado</span>
+                                                                <span>Cochabamba</span>
                                                             </span>
                                                             <span>$$325k</span>
                                                         </li>
@@ -763,7 +763,7 @@
                                                                 <span class="inline-flex h-[6px] w-[6px] bg-primary-500 ring-opacity-25 rounded-full ring-4
                         bg-info-500 ring-info-500
                         "></span>
-                                                                <span>Iowa</span>
+                                                                <span>Potosi</span>
                                                             </span>
                                                             <span>$67</span>
                                                         </li>
@@ -774,7 +774,7 @@
                                                                 <span class="inline-flex h-[6px] w-[6px] bg-primary-500 ring-opacity-25 rounded-full ring-4
                         bg-warning-500 ring-warning-500
                         "></span>
-                                                                <span>Arkansas</span>
+                                                                <span>Oruro</span>
                                                             </span>
                                                             <span>$354k</span>
                                                         </li>
@@ -785,7 +785,7 @@
                                                                 <span class="inline-flex h-[6px] w-[6px] bg-primary-500 ring-opacity-25 rounded-full ring-4
                         bg-success-500 ring-success-500
                         "></span>
-                                                                <span>Wyoming</span>
+                                                                <span>Santa cruz</span>
                                                             </span>
                                                             <span>$195k</span>
                                                         </li>
@@ -796,7 +796,7 @@
                                                                 <span class="inline-flex h-[6px] w-[6px] bg-primary-500 ring-opacity-25 rounded-full ring-4
                         bg-secondary-500 ring-secondary-500
                         "></span>
-                                                                <span>Other countries</span>
+                                                                <span>La paz</span>
                                                             </span>
                                                             <span>$295k</span>
                                                         </li>
@@ -816,7 +816,7 @@
                                 <div class="lg:col-span-4 col-span-12">
                                     <div class="card">
                                         <div class="card-header">
-                                            <h4 class="card-title">Overview</h4>
+                                            <h4 class="card-title">Descripción general</h4>
                                             <div>
                                                 <!-- BEGIN: Card Dropdown -->
                                                 <div class="relative">
@@ -832,17 +832,17 @@
                                                             <li>
                                                                 <a href="#" class="text-slate-600 dark:text-white block font-Inter font-normal px-4 py-2 hover:bg-slate-100 dark:hover:bg-slate-600
                         dark:hover:text-white">
-                                                                    Last 28 Days</a>
+                                                                    Últimos 28 días</a>
                                                             </li>
                                                             <li>
                                                                 <a href="#" class="text-slate-600 dark:text-white block font-Inter font-normal px-4 py-2 hover:bg-slate-100 dark:hover:bg-slate-600
                         dark:hover:text-white">
-                                                                    Last Month</a>
+                                                                    El mes pasado</a>
                                                             </li>
                                                             <li>
                                                                 <a href="#" class="text-slate-600 dark:text-white block font-Inter font-normal px-4 py-2 hover:bg-slate-100 dark:hover:bg-slate-600
                         dark:hover:text-white">
-                                                                    Last Year</a>
+                                                                    El año pasado</a>
                                                             </li>
                                                         </ul>
                                                     </div>
@@ -855,7 +855,7 @@
                                             <div class="bg-slate-50 dark:bg-slate-900 rounded p-4 mt-8 flex justify-between flex-wrap">
                                                 <div class="space-y-1">
                                                     <h4 class="text-slate-600 dark:text-slate-200 text-xs font-normal">
-                                                        Invested amount
+                                                        Monto invertido
                                                     </h4>
                                                     <div class="text-sm font-medium text-slate-900 dark:text-white">
                                                         $8264.35
@@ -866,7 +866,7 @@
                                                 </div>
                                                 <div class="space-y-1">
                                                     <h4 class="text-slate-600 dark:text-slate-200 text-xs font-normal">
-                                                        Invested amount
+                                                        Monto invertido
                                                     </h4>
                                                     <div class="text-sm font-medium text-slate-900 dark:text-white">
                                                         $8264.35
@@ -874,7 +874,7 @@
                                                 </div>
                                                 <div class="space-y-1">
                                                     <h4 class="text-slate-600 dark:text-slate-200 text-xs font-normal">
-                                                        Invested amount
+                                                        Monto invertido
                                                     </h4>
                                                     <div class="text-sm font-medium text-slate-900 dark:text-white">
                                                         $8264.35
@@ -908,7 +908,7 @@
                     </span>
                 </span>
                 <span class="block text-[11px] text-slate-600 dark:text-slate-300">
-                    Messages
+                    Mensajes
                 </span>
             </div>
         </a>
@@ -929,7 +929,7 @@
                     </span>
                 </span>
                 <span class=" block text-[11px] text-slate-600 dark:text-slate-300">
-                    Notifications
+                    Notificaciones
                 </span>
             </div>
         </a>
